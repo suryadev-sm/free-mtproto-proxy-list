@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 11 Oct 2026, 11:40 UTC | **Working now:** 14
+**Last update:** 11 Oct 2026, 12:10 UTC | **Working now:** 14
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -11,8 +11,8 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `ir-ir.gnutella2.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.gnutella2.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 2 | `ir-ir.rebol.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.rebol.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 1 | `ir-ir.rebol.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.rebol.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 2 | `ir-ir.gnutella2.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.gnutella2.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 3 | `lte.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=lte.mishutkin.click&port=443&secret=ee67af30bbe3543b32fd7b6966a61417e26c74652e6d69736875746b696e2e636c69636b) |
 | 4 | `mobile.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=mobile.mishutkin.click&port=443&secret=eed052c02f3e13fa55568670fa5df149086d6f62696c652e6d69736875746b696e2e636c69636b) |
 | 5 | `77.42.56.66` | 443 | [Connect](https://t.me/proxy?server=77.42.56.66&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
