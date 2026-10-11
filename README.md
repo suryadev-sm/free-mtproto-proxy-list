@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 11 Oct 2026, 08:40 UTC | **Working now:** 15
+**Last update:** 11 Oct 2026, 09:10 UTC | **Working now:** 14
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -22,10 +22,9 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 9 | `ccc.horizon555.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 10 | `mofid.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 11 | `honar.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 12 | `Rostam.ir.igakwvwa.info.` | 7443 | [Connect](https://t.me/proxy?server=Rostam.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 13 | `Arash-kamangir.ir.igakwvwa.info.` | 7443 | [Connect](https://t.me/proxy?server=Arash-kamangir.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 14 | `Yaghoub.Leys.Safari.ir.igakwvwa.info.` | 7443 | [Connect](https://t.me/proxy?server=Yaghoub.Leys.Safari.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 15 | `lte.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=lte.mishutkin.click&port=443&secret=ee67af30bbe3543b32fd7b6966a61417e26c74652e6d69736875746b696e2e636c69636b) |
+| 12 | `Arash-kamangir.ir.igakwvwa.info.` | 7443 | [Connect](https://t.me/proxy?server=Arash-kamangir.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 13 | `Yaghoub.Leys.Safari.ir.igakwvwa.info.` | 7443 | [Connect](https://t.me/proxy?server=Yaghoub.Leys.Safari.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 14 | `lte.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=lte.mishutkin.click&port=443&secret=ee67af30bbe3543b32fd7b6966a61417e26c74652e6d69736875746b696e2e636c69636b) |
 
 ## How to use
 
