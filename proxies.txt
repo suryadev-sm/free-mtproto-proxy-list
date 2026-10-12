@@ -18,4 +18,3 @@ https://t.me/proxy?server=ir-ir.flipme.info&port=8443&secret=EERighJJvXrFGRMCIMj
 https://t.me/proxy?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=bimeh.my-moon.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=paeez.delroba.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=top.proxynet.tech&port=443&secret=ee59d1ef95ab03cfeaebb18b0a529ad5e6746f702e70726f78796e65742e74656368
