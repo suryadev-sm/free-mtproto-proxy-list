@@ -1,3 +1,6 @@
+https://t.me/proxy?server=ir.macauley.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=ir.simpleelegance-us.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=ok.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -12,7 +15,3 @@ https://t.me/proxy?server=Qeshm.island.ir.igakwvwa.info&port=7443&secret=1603010
 https://t.me/proxy?server=Yaghoub.Leys.Safari.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=Arash-kamangir.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=speed.mtproxy.pw&port=443&secret=ee3e25d81c70d7b8fcd637987db1a72c04786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=reserve.mtproxy.zip&port=443&secret=ee157d1c34ea9f027c49aca1afd241d4aa786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=channel.mtproxy.cc&port=443&secret=ee2ca8b86fae88675237568d1e63fd0517786170692e6f7a6f6e2e7275
