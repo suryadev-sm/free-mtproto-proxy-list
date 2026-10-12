@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 12 Oct 2026, 05:10 UTC | **Working now:** 22
+**Last update:** 12 Oct 2026, 05:40 UTC | **Working now:** 18
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -28,11 +28,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 15 | `ultra.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d) |
 | 16 | `top.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=top.mishutkin.click&port=443&secret=ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d) |
 | 17 | `jhndoes.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 18 | `mobile.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=mobile.mishutkin.click&port=443&secret=eed052c02f3e13fa55568670fa5df149086d6f62696c652e6d69736875746b696e2e636c69636b) |
-| 19 | `lte.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=lte.mishutkin.click&port=443&secret=ee67af30bbe3543b32fd7b6966a61417e26c74652e6d69736875746b696e2e636c69636b) |
-| 20 | `bramble.maggic.biz` | 443 | [Connect](https://t.me/proxy?server=bramble.maggic.biz&port=443&secret=ee94616f95e7687e73b668140d51c1d2266272616d626c652e6d61676769632e62697a) |
-| 21 | `puot.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 22 | `ving.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 18 | `lte.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=lte.mishutkin.click&port=443&secret=ee67af30bbe3543b32fd7b6966a61417e26c74652e6d69736875746b696e2e636c69636b) |
 
 ## How to use
 
