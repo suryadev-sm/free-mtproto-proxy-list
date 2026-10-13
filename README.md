@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 13 Oct 2026, 04:40 UTC | **Working now:** 20
+**Last update:** 13 Oct 2026, 05:10 UTC | **Working now:** 18
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -29,8 +29,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 16 | `ir-ir.gnutella2.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.gnutella2.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 17 | `ir-ir.rebol.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.rebol.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 18 | `ir-ir.flipme.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.flipme.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 19 | `bimeh.my-moon.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=bimeh.my-moon.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 20 | `paeez.delroba.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=paeez.delroba.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
