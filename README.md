@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 13 Oct 2026, 13:10 UTC | **Working now:** 24
+**Last update:** 13 Oct 2026, 13:40 UTC | **Working now:** 22
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -31,10 +31,8 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 18 | `relay.mtp.llc` | 443 | [Connect](https://t.me/proxy?server=relay.mtp.llc&port=443&secret=ee131a14743bb231d24f3dde784007b0b1786170692e6f7a6f6e2e7275) |
 | 19 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 20 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 21 | `ok.iraj.trsr57d.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ok.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 22 | `noway.iraj.trsr57d.co.uk` | 8443 | [Connect](https://t.me/proxy?server=noway.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 23 | `1.iraj.trsr57d.co.uk` | 8443 | [Connect](https://t.me/proxy?server=1.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 24 | `speed.mtproxy.pw` | 443 | [Connect](https://t.me/proxy?server=speed.mtproxy.pw&port=443&secret=ee13cbd2583a9c672080cf62c2d0bdb643786170692e6f7a6f6e2e7275) |
+| 21 | `noway.iraj.trsr57d.co.uk` | 8443 | [Connect](https://t.me/proxy?server=noway.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 22 | `1.iraj.trsr57d.co.uk` | 8443 | [Connect](https://t.me/proxy?server=1.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 
 ## How to use
 
