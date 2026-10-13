@@ -22,4 +22,3 @@ https://t.me/proxy?server=noway.iraj.trsr57d.co.uk&port=8443&secret=dd1044628212
 https://t.me/proxy?server=1.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=online.mtproxy.zip&port=443&secret=eef90e0a6f5f55a8ced18d132496c8e003786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=speed.mtproxy.pw&port=443&secret=ee13cbd2583a9c672080cf62c2d0bdb643786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=ultra.proxynet.tech&port=443&secret=eec5b6dfd5a5f78d29e7eee7aa64aae742756c7472612e70726f78796e65742e74656368
