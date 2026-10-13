@@ -1,3 +1,8 @@
+https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=platinum.mtproxy.zip&port=443&secret=eefc3efe778fcc45b4dac121e6586a0fef786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=relay.mtp.llc&port=443&secret=ee131a14743bb231d24f3dde784007b0b1786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=ok.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -15,4 +20,3 @@ https://t.me/proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac5
 https://t.me/proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=orbit.mtp.mom&port=443&secret=ee2e64e3fd0167bf4d7519b6b7222a76f3786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
