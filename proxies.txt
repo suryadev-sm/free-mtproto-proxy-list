@@ -1,3 +1,7 @@
+https://t.me/proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=fleet.lovely.lat&port=443&secret=ee597076a2a414cba9c1d4a03979ba62796c69746536342e73697465
+https://t.me/proxy?server=api.mtproxy.zip&port=443&secret=ee261e47b390ba2ea937693039177861d56c69746536342e73697465
 https://t.me/proxy?server=fast.mtp.mom&port=443&secret=ee51c8b871ae7a470814adb0c5da1f11dd6c69746536342e73697465
 https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -18,6 +22,3 @@ https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrF
 https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=public.mtproxy.zip&port=443&secret=eed254c766afb963c29c09cb8d382c055f6c69746536342e73697465
 https://t.me/proxy?server=data.lovely.lat&port=443&secret=eebf84e2a14adc7fb361e00d3b8a7e000a6c69746536342e73697465
-https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
