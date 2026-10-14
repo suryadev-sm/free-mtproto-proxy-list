@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 14 Oct 2026, 11:10 UTC | **Working now:** 25
+**Last update:** 14 Oct 2026, 11:40 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -33,9 +33,8 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 20 | `wave.lovely.lat` | 443 | [Connect](https://t.me/proxy?server=wave.lovely.lat&port=443&secret=ee8125767ead83e3a68ce6c864e28c7b4d6c69746536342e73697465) |
 | 21 | `arc.lovely.lat` | 443 | [Connect](https://t.me/proxy?server=arc.lovely.lat&port=443&secret=ee488f2074bd7e65b7dece8cdab27987046c69746536342e73697465) |
 | 22 | `max.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=max.mishutkin.click&port=443&secret=ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d) |
-| 23 | `severjadid.co.uk` | 4455 | [Connect](https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 24 | `New.nchnch.co.uk` | 4455 | [Connect](https://t.me/proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 25 | `Lashboy.muzanesghy.co.uk` | 4455 | [Connect](https://t.me/proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 23 | `New.nchnch.co.uk` | 4455 | [Connect](https://t.me/proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 24 | `Lashboy.muzanesghy.co.uk` | 4455 | [Connect](https://t.me/proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
 
 ## How to use
 
