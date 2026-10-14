@@ -1,3 +1,4 @@
+https://t.me/proxy?server=turbo.mtproxy.pw&port=443&secret=ee776e278c3085b3f903843d06420709516c69746536342e73697465
 https://t.me/proxy?server=shampoo.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=lavashak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=haven.mtproxy.cc&port=443&secret=eed713bf198d27cb7b4c0c74b9004fbaf46c69746536342e73697465
@@ -22,4 +23,3 @@ https://t.me/proxy?server=metro3.mtproxy.pw&port=443&secret=ee323d9607b8a32f86e3
 https://t.me/proxy?server=orbit.mtp.lat&port=443&secret=ee09bcb48876795874b1ac8c24940ebff76c69746536342e73697465
 https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
