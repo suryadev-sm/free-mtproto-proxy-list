@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 15 Oct 2026, 15:10 UTC | **Working now:** 23
+**Last update:** 15 Oct 2026, 15:40 UTC | **Working now:** 22
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -32,8 +32,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 19 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 20 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 21 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 22 | `global.mtp.lat` | 443 | [Connect](https://t.me/proxy?server=global.mtp.lat&port=443&secret=eeea5c522925ce4846b03c8818bed7a4db6c69746536342e73697465) |
-| 23 | `ritopo54.pebblewisp.xyz` | 443 | [Connect](https://t.me/proxy?server=ritopo54.pebblewisp.xyz&port=443&secret=ee2190e2dc080e602a4a957005d85a808e6c69746536342e73697465) |
+| 22 | `ritopo54.pebblewisp.xyz` | 443 | [Connect](https://t.me/proxy?server=ritopo54.pebblewisp.xyz&port=443&secret=ee2190e2dc080e602a4a957005d85a808e6c69746536342e73697465) |
 
 ## How to use
 
