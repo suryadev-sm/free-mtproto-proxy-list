@@ -1,3 +1,5 @@
+https://t.me/proxy?server=saboon.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=kabab.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=a21.mtjlpoto.fit&port=443&secret=ee22ff46ecf593ff44c7fc90b6a356e56b6c69746536342e73697465
 https://t.me/proxy?server=a29.lovely.lat&port=443&secret=ee30f447b0558f9991b874981c89b332c26c69746536342e73697465
 https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
@@ -21,4 +23,3 @@ https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=fleet.mtjlpoto.fit&port=443&secret=eefd70c0c10b4b13bbbad6d395ad6758ec6c69746536342e73697465
 https://t.me/proxy?server=point.mtproxy.pw&port=443&secret=ee25ab9c29d445aeb5ecdf93b5c1e0512f6c69746536342e73697465
 https://t.me/proxy?server=fast.mishutkin.click&port=443&secret=eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d
-https://t.me/proxy?server=ir-ir.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
