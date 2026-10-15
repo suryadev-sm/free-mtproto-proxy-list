@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 15 Oct 2026, 13:10 UTC | **Working now:** 25
+**Last update:** 15 Oct 2026, 13:40 UTC | **Working now:** 23
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -33,9 +33,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 20 | `ccc.horizon555.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 21 | `one.horizon555.co.uk` | 8443 | [Connect](https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 22 | `91.98.97.225` | 8443 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 23 | `fleet.mtjlpoto.fit` | 443 | [Connect](https://t.me/proxy?server=fleet.mtjlpoto.fit&port=443&secret=eefd70c0c10b4b13bbbad6d395ad6758ec6c69746536342e73697465) |
-| 24 | `point.mtproxy.pw` | 443 | [Connect](https://t.me/proxy?server=point.mtproxy.pw&port=443&secret=ee25ab9c29d445aeb5ecdf93b5c1e0512f6c69746536342e73697465) |
-| 25 | `fast.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=fast.mishutkin.click&port=443&secret=eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d) |
+| 23 | `point.mtproxy.pw` | 443 | [Connect](https://t.me/proxy?server=point.mtproxy.pw&port=443&secret=ee25ab9c29d445aeb5ecdf93b5c1e0512f6c69746536342e73697465) |
 
 ## How to use
 
