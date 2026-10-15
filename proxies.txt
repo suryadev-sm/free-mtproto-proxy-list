@@ -1,3 +1,5 @@
+https://t.me/proxy?server=global.mtp.lat&port=443&secret=eeea5c522925ce4846b03c8818bed7a4db6c69746536342e73697465
+https://t.me/proxy?server=ritopo54.pebblewisp.xyz&port=443&secret=ee2190e2dc080e602a4a957005d85a808e6c69746536342e73697465
 https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -21,5 +23,3 @@ https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrF
 https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=sync.mtproxy.cc&port=443&secret=eeb1aed35159f92f2c2664da4ec774c9826c69746536342e73697465
-https://t.me/proxy?server=a09.lovely.lat&port=443&secret=ee9e296c2cf6c9bde4a1a9f6cf2015749b6c69746536342e73697465
