@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 15 Oct 2026, 04:40 UTC | **Working now:** 24
+**Last update:** 15 Oct 2026, 05:10 UTC | **Working now:** 22
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -33,8 +33,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 20 | `nocloudnew.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 21 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 22 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 23 | `Suodbo.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 24 | `puot.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
