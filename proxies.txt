@@ -1,3 +1,8 @@
+https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=tatu.quki-hub.com&port=443&secret=dd8d093773085b546c7add859281992a0a
+https://t.me/proxy?server=tg4.quki-hub.com&port=9443&secret=dd58737358dee675be48618b79ece66f8c
 https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
@@ -17,7 +22,3 @@ https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac5
 https://t.me/proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=gavi63.amberreed.top&port=443&secret=eec41711e4cbb31071c2af3559f00ce58f6761766936332e616d626572726565642e746f70
-https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-https://t.me/proxy?server=194.120.230.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-https://t.me/proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-https://t.me/proxy?server=nyma37.amberreed.top&port=443&secret=ee0542a5d2c77ba0895ba59e64626dafc96e796d6133372e616d626572726565642e746f70
