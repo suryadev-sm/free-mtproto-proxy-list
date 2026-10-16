@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 16 Oct 2026, 04:40 UTC | **Working now:** 22
+**Last update:** 16 Oct 2026, 05:10 UTC | **Working now:** 21
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -32,7 +32,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 19 | `ir-ir.ataman.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 20 | `mofid.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 21 | `honar.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 22 | `top.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=top.mishutkin.click&port=443&secret=ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d) |
 
 ## How to use
 
