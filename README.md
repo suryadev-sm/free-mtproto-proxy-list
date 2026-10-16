@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 16 Oct 2026, 15:10 UTC | **Working now:** 22
+**Last update:** 16 Oct 2026, 15:40 UTC | **Working now:** 21
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -32,7 +32,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 19 | `nocloudnew.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 20 | `toka13.amberreed.top` | 443 | [Connect](https://t.me/proxy?server=toka13.amberreed.top&port=443&secret=ee9cbfac70061528273114bf7c5c64f17c746f6b6131332e616d626572726565642e746f70) |
 | 21 | `gagasu90.copperfinch.top` | 443 | [Connect](https://t.me/proxy?server=gagasu90.copperfinch.top&port=443&secret=ee3dd96613c02e8e9864bc2b3fa6b4a84a67616761737539302e636f7070657266696e63682e746f70) |
-| 22 | `91.98.97.225` | 8443 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
