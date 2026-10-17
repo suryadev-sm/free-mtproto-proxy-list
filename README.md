@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 17 Oct 2026, 14:10 UTC | **Working now:** 24
+**Last update:** 17 Oct 2026, 14:40 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -11,10 +11,10 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 2 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 3 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 4 | `proxy.sosavpn.ru` | 443 | [Connect](https://t.me/proxy?server=proxy.sosavpn.ru&port=443&secret=ee942d2deee4d90bc892c74fd132b34d116d61782e7275) |
+| 1 | `newtg.flightv.online` | 443 | [Connect](https://t.me/proxy?server=newtg.flightv.online&port=443&secret=eef6d305d0515c6c3f9b5e0f045fa422646e657774672e666c69676874762e6f6e6c696e65) |
+| 2 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 3 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 4 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 5 | `ving.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 6 | `premium.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 7 | `dns.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
