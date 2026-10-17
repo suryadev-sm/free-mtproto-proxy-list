@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 17 Oct 2026, 04:40 UTC | **Working now:** 21
+**Last update:** 17 Oct 2026, 05:10 UTC | **Working now:** 22
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -11,27 +11,28 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `vasalshim.mamadgoli.co.uk` | 4455 | [Connect](https://t.me/proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 2 | `tazenafas.dingi3.co.uk` | 4455 | [Connect](https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 3 | `jadide.mamadali.co.uk` | 4455 | [Connect](https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 4 | `Suodbo.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 5 | `Rudmoain.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 6 | `ir-ir.grasic.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 7 | `ir-ir.my-pv.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.my-pv.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 8 | `ir-ir.simpleelegance-us.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.simpleelegance-us.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 9 | `79.137.196.223` | 21443 | [Connect](https://t.me/proxy?server=79.137.196.223&port=21443&secret=ee70d02df07ecb5669b6eb010aba55eab07777772e636c6f7564666c6172652e636f6d) |
-| 10 | `jhndoes.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 11 | `exiscos.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 12 | `termsnal.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 13 | `ccc.horizon555.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 14 | `one.horizon555.co.uk` | 8443 | [Connect](https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 15 | `x.shmelproxy.top` | 443 | [Connect](https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275) |
-| 16 | `tg1-ru3.chadvpn.shop` | 8443 | [Connect](https://t.me/proxy?server=tg1-ru3.chadvpn.shop&port=8443&secret=ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70) |
-| 17 | `tg2-ru3.chadvpn.shop` | 8443 | [Connect](https://t.me/proxy?server=tg2-ru3.chadvpn.shop&port=8443&secret=ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70) |
-| 18 | `194.120.230.120` | 443 | [Connect](https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 19 | `194.120.230.106` | 443 | [Connect](https://t.me/proxy?server=194.120.230.106&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 20 | `mofid.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 21 | `honar.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 1 | `din5gli2.co.uk` | 4455 | [Connect](https://t.me/proxy?server=din5gli2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 2 | `dingi3.co.uk` | 4455 | [Connect](https://t.me/proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 3 | `mamadali.co.uk` | 4455 | [Connect](https://t.me/proxy?server=mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 4 | `vasalshim.mamadgoli.co.uk` | 4455 | [Connect](https://t.me/proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 5 | `tazenafas.dingi3.co.uk` | 4455 | [Connect](https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 6 | `jadide.mamadali.co.uk` | 4455 | [Connect](https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 7 | `Suodbo.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 8 | `Rudmoain.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 9 | `ir-ir.grasic.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 10 | `ir-ir.my-pv.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.my-pv.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 11 | `ir-ir.simpleelegance-us.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.simpleelegance-us.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 12 | `79.137.196.223` | 21443 | [Connect](https://t.me/proxy?server=79.137.196.223&port=21443&secret=ee70d02df07ecb5669b6eb010aba55eab07777772e636c6f7564666c6172652e636f6d) |
+| 13 | `jhndoes.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 14 | `exiscos.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 15 | `termsnal.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 16 | `ccc.horizon555.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 17 | `one.horizon555.co.uk` | 8443 | [Connect](https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 18 | `x.shmelproxy.top` | 443 | [Connect](https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275) |
+| 19 | `tg1-ru3.chadvpn.shop` | 8443 | [Connect](https://t.me/proxy?server=tg1-ru3.chadvpn.shop&port=8443&secret=ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70) |
+| 20 | `tg2-ru3.chadvpn.shop` | 8443 | [Connect](https://t.me/proxy?server=tg2-ru3.chadvpn.shop&port=8443&secret=ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70) |
+| 21 | `194.120.230.120` | 443 | [Connect](https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 22 | `194.120.230.106` | 443 | [Connect](https://t.me/proxy?server=194.120.230.106&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
 
 ## How to use
 
