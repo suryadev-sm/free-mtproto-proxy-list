@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 17 Oct 2026, 07:40 UTC | **Working now:** 20
+**Last update:** 17 Oct 2026, 08:10 UTC | **Working now:** 19
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -11,26 +11,25 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 2 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 3 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 4 | `redflag.yazaebalsyadelatproxy.vip` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.vip&port=443&secret=ee80900736c157ea772517074dd8eac1d1726564666c61672e79617a616562616c73796164656c617470726f78792e766970) |
-| 5 | `rilora34.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=rilora34.mosswren.vip&port=443&secret=ee13ad3d93bdcf5fed02b1252415631fd572696c6f726133342e6d6f73737772656e2e766970) |
-| 6 | `rale49.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=rale49.mosswren.vip&port=443&secret=ee73e7dbb3f2f846f567e24bee244c0f1072616c6534392e6d6f73737772656e2e766970) |
-| 7 | `rootssh2.co.uk.` | 4455 | [Connect](https://t.me/proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 8 | `severjadid.co.uk` | 4455 | [Connect](https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 9 | `yarypple.co.uk.` | 4455 | [Connect](https://t.me/proxy?server=yarypple.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 10 | `nykany97.amberreed.top` | 443 | [Connect](https://t.me/proxy?server=nykany97.amberreed.top&port=443&secret=ee210e812c62beaba8886a0e7042c435ce6e796b616e7939372e616d626572726565642e746f70) |
-| 11 | `redflag.yazaebalsyadelatproxy.top` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.top&port=443&secret=ee24c8636b7e946779a023ee708370719b726564666c61672e79617a616562616c73796164656c617470726f78792e746f70) |
-| 12 | `deraka22.amberreed.top` | 443 | [Connect](https://t.me/proxy?server=deraka22.amberreed.top&port=443&secret=ee920a4026fcc79354d87c30db9280e578646572616b6132322e616d626572726565642e746f70) |
-| 13 | `din5gli2.co.uk` | 4455 | [Connect](https://t.me/proxy?server=din5gli2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `dingi3.co.uk` | 4455 | [Connect](https://t.me/proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 15 | `mamadali.co.uk` | 4455 | [Connect](https://t.me/proxy?server=mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `vasalshim.mamadgoli.co.uk` | 4455 | [Connect](https://t.me/proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 17 | `tazenafas.dingi3.co.uk` | 4455 | [Connect](https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 18 | `jadide.mamadali.co.uk` | 4455 | [Connect](https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 19 | `Suodbo.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 20 | `Rudmoain.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 1 | `ir-ir.grasic.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.grasic.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 2 | `ir-ir.my-pv.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.my-pv.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 3 | `ir-ir.simpleelegance-us.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.simpleelegance-us.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 4 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 5 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 6 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 7 | `redflag.yazaebalsyadelatproxy.vip` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.vip&port=443&secret=ee80900736c157ea772517074dd8eac1d1726564666c61672e79617a616562616c73796164656c617470726f78792e766970) |
+| 8 | `rilora34.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=rilora34.mosswren.vip&port=443&secret=ee13ad3d93bdcf5fed02b1252415631fd572696c6f726133342e6d6f73737772656e2e766970) |
+| 9 | `rale49.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=rale49.mosswren.vip&port=443&secret=ee73e7dbb3f2f846f567e24bee244c0f1072616c6534392e6d6f73737772656e2e766970) |
+| 10 | `rootssh2.co.uk.` | 4455 | [Connect](https://t.me/proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 11 | `severjadid.co.uk` | 4455 | [Connect](https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 12 | `yarypple.co.uk.` | 4455 | [Connect](https://t.me/proxy?server=yarypple.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 13 | `nykany97.amberreed.top` | 443 | [Connect](https://t.me/proxy?server=nykany97.amberreed.top&port=443&secret=ee210e812c62beaba8886a0e7042c435ce6e796b616e7939372e616d626572726565642e746f70) |
+| 14 | `redflag.yazaebalsyadelatproxy.top` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.top&port=443&secret=ee24c8636b7e946779a023ee708370719b726564666c61672e79617a616562616c73796164656c617470726f78792e746f70) |
+| 15 | `deraka22.amberreed.top` | 443 | [Connect](https://t.me/proxy?server=deraka22.amberreed.top&port=443&secret=ee920a4026fcc79354d87c30db9280e578646572616b6132322e616d626572726565642e746f70) |
+| 16 | `din5gli2.co.uk` | 4455 | [Connect](https://t.me/proxy?server=din5gli2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 17 | `dingi3.co.uk` | 4455 | [Connect](https://t.me/proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 18 | `mamadali.co.uk` | 4455 | [Connect](https://t.me/proxy?server=mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 19 | `jadide.mamadali.co.uk` | 4455 | [Connect](https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
 
 ## How to use
 
