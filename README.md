@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 17 Oct 2026, 03:10 UTC | **Working now:** 20
+**Last update:** 17 Oct 2026, 03:40 UTC | **Working now:** 20
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -26,7 +26,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 13 | `ccc.horizon555.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 14 | `one.horizon555.co.uk` | 8443 | [Connect](https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 15 | `x.shmelproxy.top` | 443 | [Connect](https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275) |
-| 16 | `tg1-ru3.chadvpn.shop` | 8443 | [Connect](https://t.me/proxy?server=tg1-ru3.chadvpn.shop&port=8443&secret=ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70) |
+| 16 | `tg2-ru3.chadvpn.shop` | 8443 | [Connect](https://t.me/proxy?server=tg2-ru3.chadvpn.shop&port=8443&secret=ee51cfaa7826e4faea33f0c4588defd1677467312d7275332e6368616476706e2e73686f70) |
 | 17 | `194.120.230.120` | 443 | [Connect](https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
 | 18 | `194.120.230.106` | 443 | [Connect](https://t.me/proxy?server=194.120.230.106&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
 | 19 | `mofid.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
