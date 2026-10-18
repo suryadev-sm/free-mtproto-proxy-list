@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 18 Oct 2026, 12:10 UTC | **Working now:** 25
+**Last update:** 18 Oct 2026, 12:40 UTC | **Working now:** 22
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -33,9 +33,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 20 | `mio.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 21 | `mahi.poolaki.co.uk` | 8443 | [Connect](https://t.me/proxy?server=mahi.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 | 22 | `tolosu80.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=tolosu80.mosswren.vip&port=443&secret=eed83d8a931d025ab6989e824ef614ce7d746f6c6f737538302e6d6f73737772656e2e766970) |
-| 23 | `vilomi57.tidelark.cc` | 443 | [Connect](https://t.me/proxy?server=vilomi57.tidelark.cc&port=443&secret=ee6ce7aa9636179a5f67366aaab4702a2676696c6f6d6935372e746964656c61726b2e6363) |
-| 24 | `appstoff.info` | 22 | [Connect](https://t.me/proxy?server=appstoff.info&port=22&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 25 | `ssh.meow0.co.uk` | 22 | [Connect](https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
 
 ## How to use
 
