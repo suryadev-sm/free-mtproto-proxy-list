@@ -13,7 +13,6 @@ https://t.me/proxy?server=vilomi57.tidelark.cc&port=443&secret=ee6ce7aa9636179a5
 https://t.me/proxy?server=appstoff.info&port=22&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=makato62.mosswren.vip&port=443&secret=ee4e2e9413e98d2dd622d29d7dfce9df946d616b61746f36322e6d6f73737772656e2e766970
 https://t.me/proxy?server=rima15.tidelark.cc&port=443&secret=ee796e23ad48fac2e118b50c34116c851f72696d6131352e746964656c61726b2e6363
 https://t.me/proxy?server=tokane46.tidelark.cc&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd20746f6b616e6534362e746964656c61726b2e6363

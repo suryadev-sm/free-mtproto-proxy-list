@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 18 Oct 2026, 09:10 UTC | **Working now:** 23
+**Last update:** 18 Oct 2026, 09:40 UTC | **Working now:** 22
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -26,14 +26,13 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 13 | `appstoff.info` | 22 | [Connect](https://t.me/proxy?server=appstoff.info&port=22&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 14 | `ssh.meow0.co.uk` | 22 | [Connect](https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09) |
 | 15 | `Speed-speed.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 16 | `Hel-hi.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 17 | `makato62.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=makato62.mosswren.vip&port=443&secret=ee4e2e9413e98d2dd622d29d7dfce9df946d616b61746f36322e6d6f73737772656e2e766970) |
-| 18 | `rima15.tidelark.cc` | 443 | [Connect](https://t.me/proxy?server=rima15.tidelark.cc&port=443&secret=ee796e23ad48fac2e118b50c34116c851f72696d6131352e746964656c61726b2e6363) |
-| 19 | `tokane46.tidelark.cc` | 443 | [Connect](https://t.me/proxy?server=tokane46.tidelark.cc&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd20746f6b616e6534362e746964656c61726b2e6363) |
-| 20 | `mide77.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=mide77.mosswren.vip&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6d69646537372e6d6f73737772656e2e766970) |
-| 21 | `ving.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 22 | `premium.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 23 | `dns.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 16 | `makato62.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=makato62.mosswren.vip&port=443&secret=ee4e2e9413e98d2dd622d29d7dfce9df946d616b61746f36322e6d6f73737772656e2e766970) |
+| 17 | `rima15.tidelark.cc` | 443 | [Connect](https://t.me/proxy?server=rima15.tidelark.cc&port=443&secret=ee796e23ad48fac2e118b50c34116c851f72696d6131352e746964656c61726b2e6363) |
+| 18 | `tokane46.tidelark.cc` | 443 | [Connect](https://t.me/proxy?server=tokane46.tidelark.cc&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd20746f6b616e6534362e746964656c61726b2e6363) |
+| 19 | `mide77.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=mide77.mosswren.vip&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6d69646537372e6d6f73737772656e2e766970) |
+| 20 | `ving.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 21 | `premium.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 22 | `dns.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
