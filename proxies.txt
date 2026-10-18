@@ -1,3 +1,6 @@
+https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=dizgrakh.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=rika86.tidelark.cc&port=443&secret=eecd7b5204a28b47f7cc34c6735743360872696b6138362e746964656c61726b2e6363
 https://t.me/proxy?server=gavi88.mosswren.vip&port=443&secret=eeb8e5365580b9ad3c2ee355dfcbc245e56761766938382e6d6f73737772656e2e766970
@@ -19,4 +22,3 @@ https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac5
 https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=mahi.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=tolosu80.mosswren.vip&port=443&secret=eed83d8a931d025ab6989e824ef614ce7d746f6c6f737538302e6d6f73737772656e2e766970
