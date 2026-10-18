@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 18 Oct 2026, 17:10 UTC | **Working now:** 19
+**Last update:** 18 Oct 2026, 17:40 UTC | **Working now:** 18
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -28,8 +28,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 15 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 16 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 17 | `ir.closcloud.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 18 | `bo0ji.co.uk.` | 443 | [Connect](https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
-| 19 | `im.dumaniltd.co.uk` | 8443 | [Connect](https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 18 | `im.dumaniltd.co.uk` | 8443 | [Connect](https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
