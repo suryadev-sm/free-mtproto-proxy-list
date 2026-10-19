@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 19 Oct 2026, 14:10 UTC | **Working now:** 19
+**Last update:** 19 Oct 2026, 14:40 UTC | **Working now:** 18
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -22,14 +22,13 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 9 | `ir-ir.ataman.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 10 | `lllllk.iraj.trsr57d.co.uk` | 8443 | [Connect](https://t.me/proxy?server=lllllk.iraj.trsr57d.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 | 11 | `333.antony-gordon.co.uk` | 8443 | [Connect](https://t.me/proxy?server=333.antony-gordon.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 12 | `pe2aathp.proxlet.site` | 8443 | [Connect](https://t.me/proxy?server=pe2aathp.proxlet.site&port=8443&secret=eec715c4d72a7605f951b46f45e011bf2470653261617468702e70726f786c65742e73697465) |
-| 13 | `91.98.97.225` | 8443 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 14 | `Arash-kamangir.ir.igakwvwa.info.` | 7443 | [Connect](https://t.me/proxy?server=Arash-kamangir.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 15 | `homa.ir.awedsj.info.` | 7443 | [Connect](https://t.me/proxy?server=homa.ir.awedsj.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 16 | `daliran-tangestan.ir.aysghfkzcxg.info.` | 7443 | [Connect](https://t.me/proxy?server=daliran-tangestan.ir.aysghfkzcxg.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 17 | `bo0ji.co.uk.` | 443 | [Connect](https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
-| 18 | `im.dumaniltd.co.uk` | 8443 | [Connect](https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 19 | `ir.closcloud.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 12 | `91.98.97.225` | 8443 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 13 | `Arash-kamangir.ir.igakwvwa.info.` | 7443 | [Connect](https://t.me/proxy?server=Arash-kamangir.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 14 | `homa.ir.awedsj.info.` | 7443 | [Connect](https://t.me/proxy?server=homa.ir.awedsj.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 15 | `daliran-tangestan.ir.aysghfkzcxg.info.` | 7443 | [Connect](https://t.me/proxy?server=daliran-tangestan.ir.aysghfkzcxg.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 16 | `bo0ji.co.uk.` | 443 | [Connect](https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
+| 17 | `im.dumaniltd.co.uk` | 8443 | [Connect](https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 18 | `ir.closcloud.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
