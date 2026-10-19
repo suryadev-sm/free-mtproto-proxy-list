@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 19 Oct 2026, 11:10 UTC | **Working now:** 24
+**Last update:** 19 Oct 2026, 11:40 UTC | **Working now:** 23
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -34,7 +34,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 21 | `dns.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 22 | `zole29.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=zole29.mosswren.vip&port=443&secret=ee6ce7aa9636179a5f67366aaab4702a267a6f6c6532392e6d6f73737772656e2e766970) |
 | 23 | `leny61.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=leny61.mosswren.vip&port=443&secret=ee886df762dfcde8f48c03f79da90172336c656e7936312e6d6f73737772656e2e766970) |
-| 24 | `vimika15.tidelark.cc` | 443 | [Connect](https://t.me/proxy?server=vimika15.tidelark.cc&port=443&secret=ee4abe44348ba405ac59448f7f9fe6353c76696d696b6131352e746964656c61726b2e6363) |
 
 ## How to use
 
