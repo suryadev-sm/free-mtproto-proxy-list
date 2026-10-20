@@ -1,3 +1,7 @@
+https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=194.120.230.106&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
+https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b
 https://t.me/proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
@@ -19,7 +23,3 @@ https://t.me/proxy?server=zozo42.tidelark.cc&port=443&secret=eea02849a55daccdc7f
 https://t.me/proxy?server=lode46.mosswren.vip&port=443&secret=ee6ce7aa9636179a5f67366aaab4702a266c6f646534362e6d6f73737772656e2e766970
 https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=kabab.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=mahi.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=rade89.mosswren.vip&port=443&secret=eef370f65154cbd28b4066bb9dbf5fb6d97261646538392e6d6f73737772656e2e766970
-https://t.me/proxy?server=topo15.mosswren.vip&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e746f706f31352e6d6f73737772656e2e766970
