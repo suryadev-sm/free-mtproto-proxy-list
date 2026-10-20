@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 20 Oct 2026, 18:10 UTC | **Working now:** 25
+**Last update:** 20 Oct 2026, 18:40 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -34,8 +34,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 21 | `honar.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 22 | `194.120.230.120` | 443 | [Connect](https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
 | 23 | `194.120.230.106` | 443 | [Connect](https://t.me/proxy?server=194.120.230.106&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 24 | `tg1-ru4.chadvpn.shop` | 853 | [Connect](https://t.me/proxy?server=tg1-ru4.chadvpn.shop&port=853&secret=eeb238721218eebd6f1d571990af3c4d9b7467312d7275342e6368616476706e2e73686f70) |
-| 25 | `tg2-ru4.chadvpn.shop` | 853 | [Connect](https://t.me/proxy?server=tg2-ru4.chadvpn.shop&port=853&secret=eeb238721218eebd6f1d571990af3c4d9b7467312d7275342e6368616476706e2e73686f70) |
+| 24 | `tg2-ru4.chadvpn.shop` | 853 | [Connect](https://t.me/proxy?server=tg2-ru4.chadvpn.shop&port=853&secret=eeb238721218eebd6f1d571990af3c4d9b7467312d7275342e6368616476706e2e73686f70) |
 
 ## How to use
 
