@@ -1,4 +1,5 @@
-https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.vip&port=443&secret=ee13ad3d93bdcf5fed02b1252415631fd5726564666c61672e79617a616562616c73796164656c617470726f78792e766970
+https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.vip&port=443&secret=ee9267d78681726d5ff1bf826b750ba4ba726564666c61672e79617a616562616c73796164656c617470726f78792e766970
+https://t.me/proxy?server=poka38.tidelark.cc&port=443&secret=eeb0a621aecd97816306c197d21a8bf47b706f6b6133382e746964656c61726b2e6363
 https://t.me/proxy?server=mato82.tidelark.cc&port=443&secret=ee162063fc602a74460eea3cb0135cc3196d61746f38322e746964656c61726b2e6363
 https://t.me/proxy?server=zozo42.tidelark.cc&port=443&secret=eea02849a55daccdc7f7a05691b7ef7cd17a6f7a6f34322e746964656c61726b2e6363
 https://t.me/proxy?server=lode46.mosswren.vip&port=443&secret=ee6ce7aa9636179a5f67366aaab4702a266c6f646534362e6d6f73737772656e2e766970
@@ -20,6 +21,3 @@ https://t.me/proxy?server=nfc.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJ
 https://t.me/proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=tg1-ru4.chadvpn.shop&port=8443&secret=eed1701b28cde5b617b23263cf5e601dae7467312d7275342e6368616476706e2e73686f70
-https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
