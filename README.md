@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 22 Oct 2026, 12:10 UTC | **Working now:** 21
+**Last update:** 22 Oct 2026, 12:40 UTC | **Working now:** 17
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -28,10 +28,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 15 | `ccc.horizon555.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 16 | `one.horizon555.co.uk` | 8443 | [Connect](https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 17 | `fast.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=fast.mishutkin.click&port=443&secret=eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d) |
-| 18 | `s1.moworkvpn.site` | 443 | [Connect](https://t.me/proxy?server=s1.moworkvpn.site&port=443&secret=ee7f544ee791d0f5b888d20b955d16b2f1737461636b6f766572666c6f772e636f6d) |
-| 19 | `s2.moworkvpn.site` | 8443 | [Connect](https://t.me/proxy?server=s2.moworkvpn.site&port=8443&secret=ee8da87e8ee453db25d1f0cb08f544c1296a6574627261696e732e636f6d) |
-| 20 | `kabab.mikhay.co.uk` | 8443 | [Connect](https://t.me/proxy?server=kabab.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 21 | `lavashak.mikhay.co.uk` | 8443 | [Connect](https://t.me/proxy?server=lavashak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
