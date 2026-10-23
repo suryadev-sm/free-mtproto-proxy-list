@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 23 Oct 2026, 05:40 UTC | **Working now:** 25
+**Last update:** 23 Oct 2026, 06:10 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -11,15 +11,15 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `redflag.yazaebalsyadelatproxy.vip` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.vip&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd20726564666c61672e79617a616562616c73796164656c617470726f78792e766970) |
-| 2 | `maka61.tidelark.cc` | 443 | [Connect](https://t.me/proxy?server=maka61.tidelark.cc&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6d616b6136312e746964656c61726b2e6363) |
-| 3 | `91.107.160.196` | 443 | [Connect](https://t.me/proxy?server=91.107.160.196&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 4 | `ultra.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d) |
-| 5 | `178.105.6.160` | 8443 | [Connect](https://t.me/proxy?server=178.105.6.160&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 6 | `62.238.61.31` | 8443 | [Connect](https://t.me/proxy?server=62.238.61.31&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 7 | `severjadid.co.uk` | 4455 | [Connect](https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 8 | `new7.mizanmizanesgh.co.uk` | 4455 | [Connect](https://t.me/proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 9 | `bfesedv.uk.` | 4455 | [Connect](https://t.me/proxy?server=bfesedv.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 1 | `severjadid.co.uk` | 4455 | [Connect](https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 2 | `new7.mizanmizanesgh.co.uk` | 4455 | [Connect](https://t.me/proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 3 | `bfesedv.uk.` | 4455 | [Connect](https://t.me/proxy?server=bfesedv.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 4 | `redflag.yazaebalsyadelatproxy.vip` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.vip&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd20726564666c61672e79617a616562616c73796164656c617470726f78792e766970) |
+| 5 | `maka61.tidelark.cc` | 443 | [Connect](https://t.me/proxy?server=maka61.tidelark.cc&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6d616b6136312e746964656c61726b2e6363) |
+| 6 | `91.107.160.196` | 443 | [Connect](https://t.me/proxy?server=91.107.160.196&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 7 | `ultra.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d) |
+| 8 | `178.105.6.160` | 8443 | [Connect](https://t.me/proxy?server=178.105.6.160&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 9 | `62.238.61.31` | 8443 | [Connect](https://t.me/proxy?server=62.238.61.31&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 10 | `tg.getsurfvpn.com` | 443 | [Connect](https://t.me/proxy?server=tg.getsurfvpn.com&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070) |
 | 11 | `delvari.ir.aysghfkzcxg.info.` | 7443 | [Connect](https://t.me/proxy?server=delvari.ir.aysghfkzcxg.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 12 | `babak-khoramdin.ir.aysghfkzcxg.info.` | 7443 | [Connect](https://t.me/proxy?server=babak-khoramdin.ir.aysghfkzcxg.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
