@@ -10,6 +10,7 @@ https://t.me/proxy?server=333.mtprotonewrunningproxasia.info&port=8443&secret=ee
 https://t.me/proxy?server=333.antony-gordon.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=cdnpulse.org&port=443&secret=ee14f36dd188bffec614c6c664ac37d71a686f66662e7275
+https://t.me/proxy?server=cdnwake.org&port=443&secret=eecee7b6e27470f95e6aa8c507f66a0c9f686f66662e7275
 https://t.me/proxy?server=cloud-sync-mx.online&port=443&secret=ee395b5c5d20a594c5656b17f198621c05636c6f75642d73796e632d6d782e6f6e6c696e65
 https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
