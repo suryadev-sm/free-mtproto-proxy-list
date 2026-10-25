@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 25 Oct 2026, 16:10 UTC | **Working now:** 22
+**Last update:** 25 Oct 2026, 16:40 UTC | **Working now:** 23
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -30,9 +30,10 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 17 | `vasalshim.mamadgoli.co.uk` | 4455 | [Connect](https://t.me/proxy?server=vasalshim.mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
 | 18 | `tazenafas.dingi3.co.uk` | 4455 | [Connect](https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
 | 19 | `jadide.mamadali.co.uk` | 4455 | [Connect](https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 20 | `ir.groundfloorsolutions.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.groundfloorsolutions.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 21 | `ir-ir.radio-zvez.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.radio-zvez.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 22 | `ir-ir.xn--ds-bja.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.xn--ds-bja.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 20 | `topproxt.asia` | 443 | [Connect](https://t.me/proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275) |
+| 21 | `ir.groundfloorsolutions.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.groundfloorsolutions.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 22 | `ir-ir.radio-zvez.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.radio-zvez.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 23 | `ir-ir.xn--ds-bja.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.xn--ds-bja.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 
 ## How to use
 
