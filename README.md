@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 27 Oct 2026, 09:10 UTC | **Working now:** 22
+**Last update:** 27 Oct 2026, 09:40 UTC | **Working now:** 20
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -11,7 +11,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `ving.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 1 | `77.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b) |
 | 2 | `premium.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 3 | `dns.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 4 | `ir-ir.panhandleflyers.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.panhandleflyers.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
@@ -23,16 +23,14 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 10 | `redflag.yazaebalsyadelatproxy.vip` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.vip&port=443&secret=ee24c8636b7e946779a023ee708370719b726564666c61672e79617a616562616c73796164656c617470726f78792e766970) |
 | 11 | `tozo31.tidelark.cc` | 443 | [Connect](https://t.me/proxy?server=tozo31.tidelark.cc&port=443&secret=ee9267d78681726d5ff1bf826b750ba4ba746f7a6f33312e746964656c61726b2e6363) |
 | 12 | `rirara15.mosswren.vip` | 443 | [Connect](https://t.me/proxy?server=rirara15.mosswren.vip&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd2072697261726131352e6d6f73737772656e2e766970) |
-| 13 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 14 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 15 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 16 | `x.shmelproxy.top` | 443 | [Connect](https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275) |
-| 17 | `ultra.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d) |
-| 18 | `support.infinityhalo.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 19 | `3etare.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 20 | `nocloudnew.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 21 | `tehran.bingi.co.uk` | 8443 | [Connect](https://t.me/proxy?server=tehran.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 22 | `termsnal.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 13 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 14 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 15 | `x.shmelproxy.top` | 443 | [Connect](https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275) |
+| 16 | `ultra.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d) |
+| 17 | `support.infinityhalo.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 18 | `3etare.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 19 | `nocloudnew.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 20 | `tehran.bingi.co.uk` | 8443 | [Connect](https://t.me/proxy?server=tehran.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
