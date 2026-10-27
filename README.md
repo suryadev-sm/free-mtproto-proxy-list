@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 27 Oct 2026, 06:10 UTC | **Working now:** 22
+**Last update:** 27 Oct 2026, 06:40 UTC | **Working now:** 21
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -32,7 +32,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 19 | `ir.groundfloorsolutions.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.groundfloorsolutions.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 20 | `ir-ir.radio-zvez.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.radio-zvez.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 21 | `ir-ir.xn--ds-bja.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.xn--ds-bja.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 22 | `tg1-ru4.chadvpn.shop` | 853 | [Connect](https://t.me/proxy?server=tg1-ru4.chadvpn.shop&port=853&secret=eeb238721218eebd6f1d571990af3c4d9b7467312d7275342e6368616476706e2e73686f70) |
 
 ## How to use
 
