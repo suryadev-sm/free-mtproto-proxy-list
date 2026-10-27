@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 27 Oct 2026, 00:10 UTC | **Working now:** 22
+**Last update:** 27 Oct 2026, 00:40 UTC | **Working now:** 21
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -27,12 +27,11 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 14 | `ir.groundfloorsolutions.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.groundfloorsolutions.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 15 | `ir-ir.radio-zvez.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.radio-zvez.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 16 | `ir-ir.xn--ds-bja.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.xn--ds-bja.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 17 | `tg1-ru5.chadvpn.shop` | 853 | [Connect](https://t.me/proxy?server=tg1-ru5.chadvpn.shop&port=853&secret=ee01298cb2ddd631b1f5f7de3dce151c8b7467312d7275352e6368616476706e2e73686f70) |
-| 18 | `tg1-ru6.chadvpn.shop` | 853 | [Connect](https://t.me/proxy?server=tg1-ru6.chadvpn.shop&port=853&secret=eefa945f5b3ab915949e388a90b521d72c7467312d7275362e6368616476706e2e73686f70) |
-| 19 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 20 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 21 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 22 | `bfesedv.uk.` | 4455 | [Connect](https://t.me/proxy?server=bfesedv.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 17 | `tg1-ru6.chadvpn.shop` | 853 | [Connect](https://t.me/proxy?server=tg1-ru6.chadvpn.shop&port=853&secret=eefa945f5b3ab915949e388a90b521d72c7467312d7275362e6368616476706e2e73686f70) |
+| 18 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 19 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 20 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 21 | `bfesedv.uk.` | 4455 | [Connect](https://t.me/proxy?server=bfesedv.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
 
 ## How to use
 
