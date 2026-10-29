@@ -1,3 +1,6 @@
+https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=nepo38.tidelark.cc&port=443&secret=ee6ce7aa9636179a5f67366aaab4702a266e65706f33382e746964656c61726b2e6363
 https://t.me/proxy?server=razori60.mosswren.vip&port=443&secret=eea02849a55daccdc7f7a05691b7ef7cd172617a6f726936302e6d6f73737772656e2e766970
 https://t.me/proxy?server=94.130.15.206&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
@@ -18,8 +21,5 @@ https://t.me/proxy?server=amoo.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJd
 https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
 https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
