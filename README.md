@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 30 Oct 2026, 00:10 UTC | **Working now:** 25
+**Last update:** 30 Oct 2026, 00:40 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -35,7 +35,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 22 | `94.130.15.206` | 443 | [Connect](https://t.me/proxy?server=94.130.15.206&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
 | 23 | `91.107.171.35` | 443 | [Connect](https://t.me/proxy?server=91.107.171.35&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
 | 24 | `65.109.98.231` | 443 | [Connect](https://t.me/proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 25 | `kostyanchekloh.lol` | 443 | [Connect](https://t.me/proxy?server=kostyanchekloh.lol&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275) |
+| 25 | `ir-ir.panhandleflyers.info` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.panhandleflyers.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 
 ## How to use
 
