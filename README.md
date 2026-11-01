@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 01 Nov 2026, 13:10 UTC | **Working now:** 22
+**Last update:** 01 Nov 2026, 13:40 UTC | **Working now:** 20
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -31,8 +31,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 18 | `77.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b) |
 | 19 | `porsorate.co.uk` | 4455 | [Connect](https://t.me/proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
 | 20 | `dingi3.co.uk` | 4455 | [Connect](https://t.me/proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 21 | `lezoka78.quillmarsh.xyz` | 443 | [Connect](https://t.me/proxy?server=lezoka78.quillmarsh.xyz&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6c657a6f6b6137382e7175696c6c6d617273682e78797a) |
-| 22 | `pokany41.saltfern.xyz` | 443 | [Connect](https://t.me/proxy?server=pokany41.saltfern.xyz&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd20706f6b616e7934312e73616c746665726e2e78797a) |
 
 ## How to use
 
