@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 01 Nov 2026, 09:10 UTC | **Working now:** 25
+**Last update:** 01 Nov 2026, 09:40 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -34,8 +34,8 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 21 | `pooran.ir.awedsj.info.` | 7443 | [Connect](https://t.me/proxy?server=pooran.ir.awedsj.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 22 | `mami99.birchquay.xyz` | 443 | [Connect](https://t.me/proxy?server=mami99.birchquay.xyz&port=443&secret=ee920a4026fcc79354d87c30db9280e5786d616d6939392e6269726368717561792e78797a) |
 | 23 | `raga77.tidalbirch.sbs` | 443 | [Connect](https://t.me/proxy?server=raga77.tidalbirch.sbs&port=443&secret=eefd9a9e2ac2851ddc327fe5971e25a87d7261676137372e746964616c62697263682e736273) |
-| 24 | `Rostam.ir.igakwvwa.info.` | 7443 | [Connect](https://t.me/proxy?server=Rostam.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 25 | `Strait-of-Hormuz.ir.bcsadwtgd.info.` | 7443 | [Connect](https://t.me/proxy?server=Strait-of-Hormuz.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 24 | `relay.surfvpn.app` | 443 | [Connect](https://t.me/proxy?server=relay.surfvpn.app&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070) |
+| 25 | `Rostam.ir.igakwvwa.info.` | 7443 | [Connect](https://t.me/proxy?server=Rostam.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
