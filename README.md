@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 01 Nov 2026, 15:40 UTC | **Working now:** 20
+**Last update:** 01 Nov 2026, 16:10 UTC | **Working now:** 21
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -23,14 +23,15 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 10 | `bo0ji.co.uk.` | 443 | [Connect](https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
 | 11 | `im.dumaniltd.co.uk` | 8443 | [Connect](https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 12 | `ir.closcloud.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 13 | `yarypple.co.uk.` | 4455 | [Connect](https://t.me/proxy?server=yarypple.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `rootssh2.co.uk.` | 4455 | [Connect](https://t.me/proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 15 | `severjadid.co.uk` | 4455 | [Connect](https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `ir.strawberrybarn.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.strawberrybarn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 17 | `ir.forzajuve.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.forzajuve.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 18 | `ir.dinocol.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.dinocol.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 19 | `haji.estabonita.co.uk` | 8443 | [Connect](https://t.me/proxy?server=haji.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 20 | `dashi.estabonita.co.uk` | 8443 | [Connect](https://t.me/proxy?server=dashi.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| 13 | `x.shmelproxy.top` | 443 | [Connect](https://t.me/proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275) |
+| 14 | `yarypple.co.uk.` | 4455 | [Connect](https://t.me/proxy?server=yarypple.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 15 | `rootssh2.co.uk.` | 4455 | [Connect](https://t.me/proxy?server=rootssh2.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 16 | `severjadid.co.uk` | 4455 | [Connect](https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 17 | `ir.strawberrybarn.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.strawberrybarn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 18 | `ir.forzajuve.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.forzajuve.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 19 | `ir.dinocol.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.dinocol.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 20 | `haji.estabonita.co.uk` | 8443 | [Connect](https://t.me/proxy?server=haji.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| 21 | `dashi.estabonita.co.uk` | 8443 | [Connect](https://t.me/proxy?server=dashi.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
