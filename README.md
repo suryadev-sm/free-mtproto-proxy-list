@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 03 Nov 2026, 02:40 UTC | **Working now:** 24
+**Last update:** 03 Nov 2026, 03:10 UTC | **Working now:** 23
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -29,12 +29,11 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 16 | `Rudmoain.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
 | 17 | `puot.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 18 | `Speed-speed.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 19 | `Hel-hi.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 20 | `89.167.29.101` | 8443 | [Connect](https://t.me/proxy?server=89.167.29.101&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 21 | `178.105.107.158` | 8443 | [Connect](https://t.me/proxy?server=178.105.107.158&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 22 | `65.109.129.89` | 8443 | [Connect](https://t.me/proxy?server=65.109.129.89&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 23 | `xxmatrixx.top` | 853 | [Connect](https://t.me/proxy?server=xxmatrixx.top&port=853&secret=eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70) |
-| 24 | `storagexx.space` | 443 | [Connect](https://t.me/proxy?server=storagexx.space&port=443&secret=ee24b61556a3ec49bc0c7a5a7e8525702873746f7261676578782e7370616365) |
+| 19 | `89.167.29.101` | 8443 | [Connect](https://t.me/proxy?server=89.167.29.101&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 20 | `178.105.107.158` | 8443 | [Connect](https://t.me/proxy?server=178.105.107.158&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 21 | `65.109.129.89` | 8443 | [Connect](https://t.me/proxy?server=65.109.129.89&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 22 | `xxmatrixx.top` | 853 | [Connect](https://t.me/proxy?server=xxmatrixx.top&port=853&secret=eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70) |
+| 23 | `storagexx.space` | 443 | [Connect](https://t.me/proxy?server=storagexx.space&port=443&secret=ee24b61556a3ec49bc0c7a5a7e8525702873746f7261676578782e7370616365) |
 
 ## How to use
 
