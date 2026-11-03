@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 03 Nov 2026, 06:40 UTC | **Working now:** 24
+**Last update:** 03 Nov 2026, 07:10 UTC | **Working now:** 22
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -27,14 +27,12 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 14 | `static.antenna-mzt.live` | 443 | [Connect](https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d) |
 | 15 | `visu82.tidalbirch.sbs` | 443 | [Connect](https://t.me/proxy?server=visu82.tidalbirch.sbs&port=443&secret=eeb8e5365580b9ad3c2ee355dfcbc245e57669737538322e746964616c62697263682e736273) |
 | 16 | `losuny65.quietfjord.click` | 443 | [Connect](https://t.me/proxy?server=losuny65.quietfjord.click&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b6c6f73756e7936352e7175696574666a6f72642e636c69636b) |
-| 17 | `redflag.yazaebalsyadelatproxy.com` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
-| 18 | `redflag.yazaebalsyadelatproxy.co.uk` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
-| 19 | `77.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b) |
-| 20 | `jhndoes.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 21 | `exiscos.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 22 | `termsnal.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 23 | `dashi.estabonita.co.uk` | 8443 | [Connect](https://t.me/proxy?server=dashi.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 24 | `surf.suslik-cloud.com` | 443 | [Connect](https://t.me/proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d) |
+| 17 | `redflag.yazaebalsyadelatproxy.co.uk` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
+| 18 | `77.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b) |
+| 19 | `jhndoes.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 20 | `exiscos.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 21 | `termsnal.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 22 | `dashi.estabonita.co.uk` | 8443 | [Connect](https://t.me/proxy?server=dashi.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
