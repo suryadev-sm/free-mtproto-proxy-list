@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 04 Nov 2026, 22:40 UTC | **Working now:** 24
+**Last update:** 04 Nov 2026, 23:10 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -34,7 +34,8 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 21 | `as.mkim.click` | 443 | [Connect](https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b) |
 | 22 | `turbo-speed.ir.bcsadwtgd.info.` | 7443 | [Connect](https://t.me/proxy?server=turbo-speed.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 23 | `sarma.ir.bcsadwtgd.info.` | 7443 | [Connect](https://t.me/proxy?server=sarma.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 24 | `static.antenna-mzt.live` | 443 | [Connect](https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d) |
+| 24 | `best-speed.ir.bcsadwtgd.info.` | 7443 | [Connect](https://t.me/proxy?server=best-speed.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 25 | `static.antenna-mzt.live` | 443 | [Connect](https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d) |
 
 ## How to use
 
