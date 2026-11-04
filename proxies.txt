@@ -1,3 +1,5 @@
+https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
 https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
 https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
@@ -6,7 +8,6 @@ https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMC
 https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=65.21.227.250&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=91.107.140.144&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=168.119.142.46&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
@@ -19,7 +20,3 @@ https://t.me/proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrF
 https://t.me/proxy?server=lemi92.foxglade.xyz&port=8443&secret=ee565b72dc9e3aa1acad6678adbf4160e564726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=tolega24.tidalbirch.sbs&port=8443&secret=ee38f8e53c0cf60d4bf9b30013c901cbb164726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=proxy.nizya.club&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562
-https://t.me/proxy?server=ir.lv426.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-https://t.me/proxy?server=ir.gung-ho.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
-https://t.me/proxy?server=connect.mishutkin.click&port=443&secret=ee43b48df152c2246a45ec2f88ea52877264726976652e676f6f676c652e636f6d
