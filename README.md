@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 04 Nov 2026, 13:10 UTC | **Working now:** 25
+**Last update:** 04 Nov 2026, 13:40 UTC | **Working now:** 23
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -30,12 +30,10 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 17 | `lavashak.mikhay.co.uk` | 8443 | [Connect](https://t.me/proxy?server=lavashak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 | 18 | `kabab.mikhay.co.uk` | 8443 | [Connect](https://t.me/proxy?server=kabab.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 | 19 | `Speed-speed.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 20 | `Hel-hi.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 21 | `ykima.davay.click` | 443 | [Connect](https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b) |
-| 22 | `mkima.davay.click` | 443 | [Connect](https://t.me/proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b) |
-| 23 | `proxy.lodkirmm.ru` | 8443 | [Connect](https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275) |
-| 24 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 25 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 20 | `ykima.davay.click` | 443 | [Connect](https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b) |
+| 21 | `mkima.davay.click` | 443 | [Connect](https://t.me/proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b) |
+| 22 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 23 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
