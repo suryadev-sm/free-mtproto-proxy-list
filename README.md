@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 05 Nov 2026, 18:10 UTC | **Working now:** 25
+**Last update:** 05 Nov 2026, 18:40 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -33,9 +33,8 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 20 | `white.magli200.info` | 8443 | [Connect](https://t.me/proxy?server=white.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 21 | `redflag.yazaebalsyadelatproxy.com` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
 | 22 | `redflag.yazaebalsyadelatproxy.co.uk` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
-| 23 | `Suodbo.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 24 | `puot.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 25 | `Rudmoain.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 23 | `puot.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 24 | `Rudmoain.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
 
 ## How to use
 
