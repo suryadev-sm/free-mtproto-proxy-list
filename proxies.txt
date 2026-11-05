@@ -22,4 +22,4 @@ https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6
 https://t.me/proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b
 https://t.me/proxy?server=zolo25.quillmarsh.xyz&port=8443&secret=ee24c8636b7e946779a023ee708370719b706574726f766963682e7275
 https://t.me/proxy?server=kalene97.fernlark.xyz&port=8443&secret=eea02849a55daccdc7f7a05691b7ef7cd164726976652e676f6f676c652e636f6d
-https://t.me/proxy?server=dashi.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=haji.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
