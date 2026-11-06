@@ -1,3 +1,5 @@
+https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
+https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
 https://t.me/proxy?server=rimi99.birchquay.xyz&port=8443&secret=eea208439f89c551765bdc3a874edb0cde64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=visura62.larchmere.xyz&port=8443&secret=ee1b08e62ec79fffcec68f3209164b737d64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=max.mishutkin.click&port=443&secret=ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d
@@ -15,11 +17,9 @@ https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMC
 https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=tolera44.copperwren.click&port=8443&secret=ee24c8636b7e946779a023ee708370719b64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=suka98.fernlark.xyz&port=8443&secret=ee899032aa75159cc1d735f15e7a0e3a6e706574726f766963682e7275
-https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
-https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
 https://t.me/proxy?server=fast.mishutkin.click&port=443&secret=eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=ir.sherlock049.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=ir-ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d
 https://t.me/proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
