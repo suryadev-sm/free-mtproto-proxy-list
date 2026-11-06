@@ -1,6 +1,8 @@
+https://t.me/proxy?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=mt1.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275
+https://t.me/proxy?server=mt3.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275
 https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b
 https://t.me/proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b
-https://t.me/proxy?server=nl7.h1cloud.net&port=25108&secret=ee48ad01672a61ed02ba8b1f28baa867c27777772e73616d73756e672e636f6d
 https://t.me/proxy?server=ir.sherlock049.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=ir-ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -15,6 +17,3 @@ https://t.me/proxy?server=dark-rush-85krcymd.expresshost.cloud&port=443&secret=e
 https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
