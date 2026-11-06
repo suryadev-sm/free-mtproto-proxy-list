@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 06 Nov 2026, 11:10 UTC | **Working now:** 22
+**Last update:** 06 Nov 2026, 11:40 UTC | **Working now:** 19
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -30,9 +30,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 17 | `mahi.poolaki.co.uk` | 8443 | [Connect](https://t.me/proxy?server=mahi.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 | 18 | `redflag.yazaebalsyadelatproxy.com` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
 | 19 | `redflag.yazaebalsyadelatproxy.co.uk` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
-| 20 | `rimi99.birchquay.xyz` | 8443 | [Connect](https://t.me/proxy?server=rimi99.birchquay.xyz&port=8443&secret=eea208439f89c551765bdc3a874edb0cde64726976652e676f6f676c652e636f6d) |
-| 21 | `visura62.larchmere.xyz` | 8443 | [Connect](https://t.me/proxy?server=visura62.larchmere.xyz&port=8443&secret=ee1b08e62ec79fffcec68f3209164b737d64726976652e676f6f676c652e636f6d) |
-| 22 | `max.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=max.mishutkin.click&port=443&secret=ee94989d74ad055391384d92c3c773c8d264726976652e676f6f676c652e636f6d) |
 
 ## How to use
 
