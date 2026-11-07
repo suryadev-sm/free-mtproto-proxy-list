@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 07 Nov 2026, 10:10 UTC | **Working now:** 23
+**Last update:** 07 Nov 2026, 10:40 UTC | **Working now:** 22
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -22,18 +22,17 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 9 | `nasho.poolaki.co.uk` | 8443 | [Connect](https://t.me/proxy?server=nasho.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 | 10 | `redflag.yazaebalsyadelatproxy.com` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
 | 11 | `redflag.yazaebalsyadelatproxy.co.uk` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
-| 12 | `ir-ir.goaphrodite.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.goaphrodite.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 13 | `m.lumenpost.top` | 443 | [Connect](https://t.me/proxy?server=m.lumenpost.top&port=443&secret=eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70) |
-| 14 | `18.216.73.109` | 443 | [Connect](https://t.me/proxy?server=18.216.73.109&port=443&secret=0bc2ca2843411272cace1e4436cd83f1) |
-| 15 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 16 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 17 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 18 | `dark-rush-85krcymd.expresshost.cloud` | 443 | [Connect](https://t.me/proxy?server=dark-rush-85krcymd.expresshost.cloud&port=443&secret=eeebd9fc04e4292071437b21c5fcb3e1556461726b2d727573682d38356b7263796d642e65787072657373686f73742e636c6f7564) |
-| 19 | `ving.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 20 | `premium.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 21 | `dns.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 22 | `podevi72.quietfjord.click` | 8443 | [Connect](https://t.me/proxy?server=podevi72.quietfjord.click&port=8443&secret=ee414ab4ecc3b3ca728f2906bee91a7b2564726976652e676f6f676c652e636f6d) |
-| 23 | `lomizo36.fernlark.xyz` | 8443 | [Connect](https://t.me/proxy?server=lomizo36.fernlark.xyz&port=8443&secret=ee75e4121a6e924021e299b009a9fa16f964726976652e676f6f676c652e636f6d) |
+| 12 | `ir.brettanderson.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.brettanderson.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 13 | `ir-ir.goaphrodite.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.goaphrodite.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 14 | `m.lumenpost.top` | 443 | [Connect](https://t.me/proxy?server=m.lumenpost.top&port=443&secret=eeadb7cfebd78712e71db745c9da7281b16d2e6c756d656e706f73742e746f70) |
+| 15 | `18.216.73.109` | 443 | [Connect](https://t.me/proxy?server=18.216.73.109&port=443&secret=0bc2ca2843411272cace1e4436cd83f1) |
+| 16 | `darya.saheledarya.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=darya.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 17 | `aseman.lunavane.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 18 | `speed.runserver.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 19 | `dark-rush-85krcymd.expresshost.cloud` | 443 | [Connect](https://t.me/proxy?server=dark-rush-85krcymd.expresshost.cloud&port=443&secret=eeebd9fc04e4292071437b21c5fcb3e1556461726b2d727573682d38356b7263796d642e65787072657373686f73742e636c6f7564) |
+| 20 | `164.37.224.216` | 443 | [Connect](https://t.me/proxy?server=164.37.224.216&port=443&secret=ddc62c6006d0a383e80aab9f1b8a233856) |
+| 21 | `premium.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 22 | `dns.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
