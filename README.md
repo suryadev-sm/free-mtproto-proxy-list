@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 07 Nov 2026, 07:10 UTC | **Working now:** 23
+**Last update:** 07 Nov 2026, 07:40 UTC | **Working now:** 20
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -29,11 +29,8 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 16 | `redflag.yazaebalsyadelatproxy.com` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
 | 17 | `redflag.yazaebalsyadelatproxy.co.uk` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
 | 18 | `ultra.mishutkin.click` | 443 | [Connect](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d) |
-| 19 | `tg.wequ.lat` | 443 | [Connect](https://t.me/proxy?server=tg.wequ.lat&port=443&secret=0289a13d961b91438fea5069a8097cb3) |
-| 20 | `surf.suslik-cloud.com` | 443 | [Connect](https://t.me/proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d) |
-| 21 | `Pooriyaye-vali.ir.igakwvwa.info.` | 7443 | [Connect](https://t.me/proxy?server=Pooriyaye-vali.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 22 | `persian.gulf.ir.bcsadwtgd.info.` | 7443 | [Connect](https://t.me/proxy?server=persian.gulf.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 23 | `Strait-of-Hormuz.ir.bcsadwtgd.info.` | 7443 | [Connect](https://t.me/proxy?server=Strait-of-Hormuz.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 19 | `surf.suslik-cloud.com` | 443 | [Connect](https://t.me/proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d) |
+| 20 | `Strait-of-Hormuz.ir.bcsadwtgd.info.` | 7443 | [Connect](https://t.me/proxy?server=Strait-of-Hormuz.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
