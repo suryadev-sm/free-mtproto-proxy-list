@@ -6,7 +6,6 @@ https://t.me/proxy?server=irl.firemedia.digital&port=443&secret=eeadd144b0531c1a
 https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=bfesedv.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
@@ -16,5 +15,4 @@ https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIM
 https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=loto39.copperwren.click&port=8443&secret=ee428e7782cb77f16adba1f4155e790cbb64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=lomile95.saltfern.xyz&port=8443&secret=eedb032c82e06131572d38ccd7c0fd7efe64726976652e676f6f676c652e636f6d
-https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
