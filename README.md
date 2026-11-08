@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 08 Nov 2026, 04:10 UTC | **Working now:** 2
+**Last update:** 08 Nov 2026, 04:40 UTC | **Working now:** 3
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -11,8 +11,9 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `surf.suslik-cloud.com` | 443 | [Connect](https://t.me/proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d) |
-| 2 | `exiscos.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 1 | `91.107.180.53` | 443 | [Connect](https://t.me/proxy?server=91.107.180.53&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 2 | `ir.brettanderson.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.brettanderson.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 3 | `demi53.mosswren.vip` | 8443 | [Connect](https://t.me/proxy?server=demi53.mosswren.vip&port=8443&secret=ee1402ee8c5f34b02f36621ec9bd51535264726976652e676f6f676c652e636f6d) |
 
 ## How to use
 
