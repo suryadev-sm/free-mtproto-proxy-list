@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 08 Nov 2026, 05:40 UTC | **Working now:** 2
+**Last update:** 08 Nov 2026, 06:10 UTC | **Working now:** 1
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -11,8 +11,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `persian.gulf.ir.bcsadwtgd.info.` | 7443 | [Connect](https://t.me/proxy?server=persian.gulf.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 2 | `vimi54.birchquay.xyz` | 8443 | [Connect](https://t.me/proxy?server=vimi54.birchquay.xyz&port=8443&secret=ee1240edc9b6d8d2fdc74ba265b1a3572b64726976652e676f6f676c652e636f6d) |
+| 1 | `redflag.yazaebalsyadelatproxy.co.uk` | 443 | [Connect](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
 
 ## How to use
 
