@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 09 Nov 2026, 04:10 UTC | **Working now:** 22
+**Last update:** 09 Nov 2026, 04:40 UTC | **Working now:** 18
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -28,11 +28,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 15 | `ir-ir.goaphrodite.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir-ir.goaphrodite.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 16 | `max.kimt.click` | 443 | [Connect](https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b) |
 | 17 | `kima.rabotaet.online` | 443 | [Connect](https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65) |
-| 18 | `speed.foriran.co.uk` | 8443 | [Connect](https://t.me/proxy?server=speed.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 19 | `xenon.foriran.co.uk` | 8443 | [Connect](https://t.me/proxy?server=xenon.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 20 | `sulozo30.quillmarsh.xyz` | 8443 | [Connect](https://t.me/proxy?server=sulozo30.quillmarsh.xyz&port=8443&secret=ee08f75cd75def43c04382460a934e21a664726976652e676f6f676c652e636f6d) |
-| 21 | `susumi78.birchquay.xyz` | 8443 | [Connect](https://t.me/proxy?server=susumi78.birchquay.xyz&port=8443&secret=eee3db4374cfa00ac0797ba04db0e6ffad64726976652e676f6f676c652e636f6d) |
-| 22 | `91.98.97.225` | 8443 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 18 | `xenon.foriran.co.uk` | 8443 | [Connect](https://t.me/proxy?server=xenon.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 
 ## How to use
 

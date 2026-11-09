@@ -15,8 +15,4 @@ https://t.me/proxy?server=ir.philgent.co.uk&port=8443&secret=EERighJJvXrFGRMCIMj
 https://t.me/proxy?server=ir-ir.goaphrodite.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
 https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65
-https://t.me/proxy?server=speed.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=xenon.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=sulozo30.quillmarsh.xyz&port=8443&secret=ee08f75cd75def43c04382460a934e21a664726976652e676f6f676c652e636f6d
-https://t.me/proxy?server=susumi78.birchquay.xyz&port=8443&secret=eee3db4374cfa00ac0797ba04db0e6ffad64726976652e676f6f676c652e636f6d
-https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
