@@ -2,14 +2,16 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 09 Nov 2026, 00:10 UTC | **Working now:** 0
+**Last update:** 09 Nov 2026, 00:40 UTC | **Working now:** 1
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
 
 ## Proxies
 
-The list is being refreshed. Fresh proxies are in the [Telegram channel](https://t.me/TGProxyMax).
+| # | Server | Port | Link |
+|---|--------|------|------|
+| 1 | `ir.brettanderson.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ir.brettanderson.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 
 ## How to use
 
