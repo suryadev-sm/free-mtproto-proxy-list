@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 10 Nov 2026, 03:10 UTC | **Working now:** 24
+**Last update:** 10 Nov 2026, 03:40 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -23,7 +23,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 10 | `surge.proxylite.tech` | 443 | [Connect](https://t.me/proxy?server=surge.proxylite.tech&port=443&secret=7qIJcFetgp2gApkkN8oFR-JzdXJnZS5wcm94eWxpdGUudGVjaA) |
 | 11 | `ving.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 12 | `premium.speed-benz.co.uk` | 8443 | [Connect](https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 13 | `mt3.leeroy.uz` | 443 | [Connect](https://t.me/proxy?server=mt3.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275) |
+| 13 | `mt4.leeroy.uz` | 443 | [Connect](https://t.me/proxy?server=mt4.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275) |
 | 14 | `jhndoes.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 15 | `exiscos.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 16 | `termsnal.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
