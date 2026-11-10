@@ -1,3 +1,4 @@
+https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d
 https://t.me/proxy?server=lolole47.tidelark.cc&port=443&secret=ee39c068a9eef03a858d82c840c0b3728b706574726f766963682e7275
 https://t.me/proxy?server=sukapo16.foxglade.xyz&port=8443&secret=ee0fde41eb62ad6ce7e55c5d018a87732e706574726f766963682e7275
@@ -19,6 +20,3 @@ https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249b
 https://t.me/proxy?server=proxy.nizya.club&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562
 https://t.me/proxy?server=neka92.larchmere.xyz&port=8443&secret=eeb26dd44a039e6125d490c0aeaa262559786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=misu42.copperwren.click&port=443&secret=eebeb3cc6e60d47ebe83eccee3c0475a47786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
