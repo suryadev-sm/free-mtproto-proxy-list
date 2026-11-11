@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 11 Nov 2026, 21:40 UTC | **Working now:** 22
+**Last update:** 11 Nov 2026, 22:10 UTC | **Working now:** 22
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -18,11 +18,11 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `pofak.mikhay.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 2 | `mt1.proxynet.tech` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=mt1.proxynet.tech&port=443&secret=eee6ad4b7b55f8f2aac70ff148ee74714164726976652e676f6f676c652e636f6d) |
-| 3 | `silver.ciaude.co.uk` | 2096 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 4 | `karbon.torobchesho.co.uk` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=karbon.torobchesho.co.uk&port=443&secret=ee79e344828749bd7ac519130220c25d096b6172626f6e2e746f726f6263686573686f2e636f2e756b) |
-| 5 | `avangard.pareporeh.info` | 5500 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=avangard.pareporeh.info&port=5500&secret=7HQighJPBNMYVRNB6tdkVw) |
+| 1 | `org.mediaad.co.uk` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=org.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 2 | `pofak.mikhay.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| 3 | `mt1.proxynet.tech` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=mt1.proxynet.tech&port=443&secret=eee6ad4b7b55f8f2aac70ff148ee74714164726976652e676f6f676c652e636f6d) |
+| 4 | `silver.ciaude.co.uk` | 2096 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 5 | `karbon.torobchesho.co.uk` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=karbon.torobchesho.co.uk&port=443&secret=ee79e344828749bd7ac519130220c25d096b6172626f6e2e746f726f6263686573686f2e636f2e756b) |
 | 6 | `45.136.14.148` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=45.136.14.148&port=443&secret=eed2583d5fe7b3674bb136f649b3d4ee327777772e6d6963726f736f66742e636f6d) |
 | 7 | `tg.proxynet.tech` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=tg.proxynet.tech&port=443&secret=ee6d98b7c125f854c0ac73c588ec9f225864726976652e676f6f676c652e636f6d) |
 | 8 | `Rudmoain.co.uk.` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
