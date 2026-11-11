@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 11 Nov 2026, 18:10 UTC | **Working now:** 23
+**Last update:** 11 Nov 2026, 18:29 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -19,21 +19,22 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 6 | `nekari33.quietfjord.click` | 443 | [Connect](https://t.me/proxy?server=nekari33.quietfjord.click&port=443&secret=ee1a9f1268411f091eff4aaca46d0c7fa5706574726f766963682e7275) |
 | 7 | `loleri73.saltfern.xyz` | 443 | [Connect](https://t.me/proxy?server=loleri73.saltfern.xyz&port=443&secret=eeeb412b6cdc3b179f63eefdb41aa6a4fc706574726f766963682e7275) |
 | 8 | `Ariobarzanes.ir.igakwvwa.info.` | 7443 | [Connect](https://t.me/proxy?server=Ariobarzanes.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 9 | `turbo-jet.balestic.ir.ghsisncbv.info.` | 7443 | [Connect](https://t.me/proxy?server=turbo-jet.balestic.ir.ghsisncbv.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 10 | `nega49.mosswren.vip` | 8443 | [Connect](https://t.me/proxy?server=nega49.mosswren.vip&port=8443&secret=ee8052a5757cc12faa6dc818a508165565786170692e6f7a6f6e2e7275) |
-| 11 | `deto22.larchmere.xyz` | 8443 | [Connect](https://t.me/proxy?server=deto22.larchmere.xyz&port=8443&secret=ee2be8580b0f53c5573a76901f897c686f64726976652e676f6f676c652e636f6d) |
-| 12 | `barsik.subaru-volga.com` | 443 | [Connect](https://t.me/proxy?server=barsik.subaru-volga.com&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c) |
-| 13 | `vinyga35.quillmarsh.xyz` | 8443 | [Connect](https://t.me/proxy?server=vinyga35.quillmarsh.xyz&port=8443&secret=ee66209693c31923590235bff3baec4bc1786170692e6f7a6f6e2e7275) |
-| 14 | `maposu18.birchquay.xyz` | 443 | [Connect](https://t.me/proxy?server=maposu18.birchquay.xyz&port=443&secret=ee5e0432a980a8a58aebaa40580866bbc1786170692e6f7a6f6e2e7275) |
-| 15 | `support.infinityhalo.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 16 | `3etare.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 17 | `nocloudnew.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 18 | `rimi88.fernlark.xyz` | 8443 | [Connect](https://t.me/proxy?server=rimi88.fernlark.xyz&port=8443&secret=ee3e175e0503b04fc22a65e6b6b60d5d9c786170692e6f7a6f6e2e7275) |
-| 19 | `zolole21.larchmere.xyz` | 8443 | [Connect](https://t.me/proxy?server=zolole21.larchmere.xyz&port=8443&secret=eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275) |
-| 20 | `Speed-speed.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 21 | `puot.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 22 | `Hel-hi.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 23 | `boost.webproxy.lol` | 443 | [Connect](https://t.me/proxy?server=boost.webproxy.lol&port=443&secret=ee61a214279f303f07c536ce7a8228e4c5626f6f73742e77656270726f78792e6c6f6c) |
+| 9 | `Strait-of-Hormuz.ir.jursdheks.info` | 7443 | [Connect](https://t.me/proxy?server=Strait-of-Hormuz.ir.jursdheks.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 10 | `turbo-jet.balestic.ir.ghsisncbv.info.` | 7443 | [Connect](https://t.me/proxy?server=turbo-jet.balestic.ir.ghsisncbv.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 11 | `nega49.mosswren.vip` | 8443 | [Connect](https://t.me/proxy?server=nega49.mosswren.vip&port=8443&secret=ee8052a5757cc12faa6dc818a508165565786170692e6f7a6f6e2e7275) |
+| 12 | `deto22.larchmere.xyz` | 8443 | [Connect](https://t.me/proxy?server=deto22.larchmere.xyz&port=8443&secret=ee2be8580b0f53c5573a76901f897c686f64726976652e676f6f676c652e636f6d) |
+| 13 | `barsik.subaru-volga.com` | 443 | [Connect](https://t.me/proxy?server=barsik.subaru-volga.com&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c) |
+| 14 | `vinyga35.quillmarsh.xyz` | 8443 | [Connect](https://t.me/proxy?server=vinyga35.quillmarsh.xyz&port=8443&secret=ee66209693c31923590235bff3baec4bc1786170692e6f7a6f6e2e7275) |
+| 15 | `maposu18.birchquay.xyz` | 443 | [Connect](https://t.me/proxy?server=maposu18.birchquay.xyz&port=443&secret=ee5e0432a980a8a58aebaa40580866bbc1786170692e6f7a6f6e2e7275) |
+| 16 | `support.infinityhalo.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 17 | `3etare.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 18 | `nocloudnew.co.uk.` | 8443 | [Connect](https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 19 | `rimi88.fernlark.xyz` | 8443 | [Connect](https://t.me/proxy?server=rimi88.fernlark.xyz&port=8443&secret=ee3e175e0503b04fc22a65e6b6b60d5d9c786170692e6f7a6f6e2e7275) |
+| 20 | `zolole21.larchmere.xyz` | 8443 | [Connect](https://t.me/proxy?server=zolole21.larchmere.xyz&port=8443&secret=eeb0a621aecd97816306c197d21a8bf47b786170692e6f7a6f6e2e7275) |
+| 21 | `Speed-speed.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 22 | `puot.mozitop.co.uk` | 8443 | [Connect](https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 23 | `Hel-hi.co.uk.` | 443 | [Connect](https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 24 | `boost.webproxy.lol` | 443 | [Connect](https://t.me/proxy?server=boost.webproxy.lol&port=443&secret=ee61a214279f303f07c536ce7a8228e4c5626f6f73742e77656270726f78792e6c6f6c) |
 
 ## How to use
 
