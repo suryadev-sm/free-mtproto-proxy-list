@@ -1,5 +1,6 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=fast.prxtg.top&port=443&secret=ee2c6cbde6f1e8947d8495ea1de476fc0b64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=avangard.pareporeh.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
 https://t.me/proxy?server=summit.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=opal.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
@@ -20,5 +21,4 @@ https://t.me/proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIM
 https://t.me/proxy?server=mt1.proxynet.tech&port=443&secret=eee6ad4b7b55f8f2aac70ff148ee74714164726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=karbon.torobchesho.co.uk&port=443&secret=ee79e344828749bd7ac519130220c25d096b6172626f6e2e746f726f6263686573686f2e636f2e756b
-https://t.me/proxy?server=avangard.pareporeh.info&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
 https://t.me/proxy?server=45.136.14.148&port=443&secret=eed2583d5fe7b3674bb136f649b3d4ee327777772e6d6963726f736f66742e636f6d
