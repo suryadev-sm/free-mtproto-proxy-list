@@ -1,9 +1,11 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=dashi.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
 https://t.me/proxy?server=srv-tbcchg.sdsdssd-px.cfd&port=443&secret=eec3b0fbfe00179a521c61416a7185030e646c2e676f6f676c652e636f6d
 https://t.me/proxy?server=ravan-kiya.ravangroup.xyz&port=443&secret=eef7a0ae3ea00c3f5721b9500c3677990263646e2e6a7364656c6976722e6e6574
 https://t.me/proxy?server=mytg1.overwall.hrscp.net&port=3443&secret=dd00baadf00d15abad1deaa515baadcafe
+https://t.me/proxy?server=109.70.74.181&port=443&secret=9a8be1ea80f2c15c0ff1e4f8c53f5791
 https://t.me/proxy?server=79.137.196.223&port=443&secret=eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=top.fastprx.top&port=443&secret=ee2eaa3efe26957df17447871a78aa19b064726976652e676f6f676c652e636f6d
@@ -23,5 +25,3 @@ https://t.me/proxy?server=utkapay.life&port=443&secret=eec0ab2dc91cd75da14bf8bde
 https://t.me/proxy?server=proxy2.nightvpn.ru&port=443&secret=00000000000000000000001000000000
 https://t.me/proxy?server=91.234.147.13&port=2020&secret=00000000000000000000000000000000
 https://t.me/proxy?server=91.234.147.12&port=2020&secret=00000000000000000000000000000000
-https://t.me/proxy?server=91.234.147.11&port=2020&secret=00000000000000000000000000000000
-https://t.me/proxy?server=91.234.147.10&port=2020&secret=00000000000000000000000000000000
