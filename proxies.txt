@@ -1,5 +1,10 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
+https://t.me/proxy?server=srv-tbcchg.sdsdssd-px.cfd&port=443&secret=eec3b0fbfe00179a521c61416a7185030e646c2e676f6f676c652e636f6d
+https://t.me/proxy?server=ravan-kiya.ravangroup.xyz&port=443&secret=eef7a0ae3ea00c3f5721b9500c3677990263646e2e6a7364656c6976722e6e6574
+https://t.me/proxy?server=mytg1.overwall.hrscp.net&port=3443&secret=dd00baadf00d15abad1deaa515baadcafe
+https://t.me/proxy?server=79.137.196.223&port=443&secret=eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=top.fastprx.top&port=443&secret=ee2eaa3efe26957df17447871a78aa19b064726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=six.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
@@ -20,8 +25,3 @@ https://t.me/proxy?server=91.234.147.13&port=2020&secret=00000000000000000000000
 https://t.me/proxy?server=91.234.147.12&port=2020&secret=00000000000000000000000000000000
 https://t.me/proxy?server=91.234.147.11&port=2020&secret=00000000000000000000000000000000
 https://t.me/proxy?server=91.234.147.10&port=2020&secret=00000000000000000000000000000000
-https://t.me/proxy?server=max.fastprx.top&port=443&secret=eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d
-https://t.me/proxy?server=nice.rozinalpoku.co.uk&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=new.nakoskoskesh.co.uk&port=8080&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=yek.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=pixel.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
