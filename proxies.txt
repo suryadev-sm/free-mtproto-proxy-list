@@ -1,6 +1,12 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
+https://t.me/proxy?server=horizon.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=bloom.driftquill.click&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=maraka16.ashwren.xyz&port=443&secret=ee912defad667a620d66dbf5fd0b2a1bcc62726f777365722e79616e6465782e7275
+https://t.me/proxy?server=zone88.sorrelbay.xyz&port=8443&secret=ee0a717e9ba394eff63a9943ff11493cc2706574726f766963682e7275
 https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
 https://t.me/proxy?server=clean.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=volt.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
@@ -11,13 +17,7 @@ https://t.me/proxy?server=push.driftquill.click&port=8443&secret=eee37d2ac00492b
 https://t.me/proxy?server=srv-jxltms.nether.cfd&port=443&secret=ee8ef3d287d668f5b4859c68653b6bc974646c2e676f6f676c652e636f6d
 https://t.me/proxy?server=84.201.14.50&port=8446&secret=ee1a41219b6c5d619c8e11a8e40356e45d7777772e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=66.33.22.250&port=56362&secret=33a0d5da6d86b932ecd7d5cf10829ea8
-https://t.me/proxy?server=34.0.210.234&port=443&secret=ee08a1b591280033cc17fd715626108c66726573706563742e747261766f6b75722e7375
 https://t.me/proxy?server=193.149.129.18&port=8080&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=107.181.112.140&port=8882&secret=13ce75ec7f7c2fa55133ee58540b76ae
 https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65
 https://t.me/proxy?server=org.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=pulse3.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=oasis.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=origin.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
