@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 14 Nov 2026, 22:40 UTC | **Working now:** 24
+**Last update:** 14 Nov 2026, 23:10 UTC | **Working now:** 23
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -36,12 +36,11 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 16 | `91.107.180.53` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=91.107.180.53&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
 | 17 | `91.107.140.144` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=91.107.140.144&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
 | 18 | `65.109.106.179` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=65.109.106.179&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 19 | `worldmaster.varomax.co.uk.` | 5500 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA) |
-| 20 | `ardebill.miandoabs.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ardebill.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 21 | `nakoshimon-jomong.lolauth.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 22 | `nema75.kelpmoor.xyz` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nema75.kelpmoor.xyz&port=443&secret=ee3766caef3a1312832d053fae6706c1d86f7a6f6e2e7275) |
-| 23 | `ganymi63.sorrelbay.xyz` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ganymi63.sorrelbay.xyz&port=8443&secret=ee0387ddee19bfe48499262c18214228ec617669746f2e7275) |
-| 24 | `ir-ir.barhousefarm.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir-ir.barhousefarm.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 19 | `ardebill.miandoabs.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ardebill.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 20 | `nakoshimon-jomong.lolauth.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 21 | `nema75.kelpmoor.xyz` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nema75.kelpmoor.xyz&port=443&secret=ee3766caef3a1312832d053fae6706c1d86f7a6f6e2e7275) |
+| 22 | `ganymi63.sorrelbay.xyz` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ganymi63.sorrelbay.xyz&port=8443&secret=ee0387ddee19bfe48499262c18214228ec617669746f2e7275) |
+| 23 | `ir-ir.barhousefarm.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir-ir.barhousefarm.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 
 ## How to use
 
