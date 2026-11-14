@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 14 Nov 2026, 04:10 UTC | **Working now:** 25
+**Last update:** 14 Nov 2026, 04:40 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -42,7 +42,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 22 | `195.201.20.237` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=195.201.20.237&port=443&secret=EE5f7ce28a2c4816c6c923dfd4d5630e01) |
 | 23 | `613.masi.ir.he6fhd.ru` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=613.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 | 24 | `614.ir.ir.ir.meli-n12.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=614.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 25 | `65.21.227.250` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=65.21.227.250&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
 
 ## How to use
 
