@@ -1,5 +1,13 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=pearl.driftquill.click&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=phoenix.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=www.www.squadgame.co.uk&port=8443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01
+https://t.me/proxy?server=www.walhack.ir.squadgame.co.uk&port=8443&secret=EE5f7ce28a2c4816c6c923dfd4d5630e01
+https://t.me/proxy?server=www.bank.com.squadgame.co.uk&port=8443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01
+https://t.me/proxy?server=cloudflare.weed.squadgame.co.uk&port=8443&secret=EE5f7ce28a2c4816c6c923dfd4d5630e01
+https://t.me/proxy?server=andromache.bistatic.cacology.sollar.yellowback.teleseryena.com&port=4750&secret=dd09778fbf9a8637019152041afbf08a17
+https://t.me/proxy?server=167.233.205.157&port=8443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01
 https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -15,10 +23,3 @@ https://t.me/proxy?server=volt.driftquill.click&port=8443&secret=ee2b6eb790d613a
 https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
 https://t.me/proxy?server=rad.irani-pr.net&port=85&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=vector1.lanternmoss.top&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=push.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=srv-jxltms.nether.cfd&port=443&secret=ee8ef3d287d668f5b4859c68653b6bc974646c2e676f6f676c652e636f6d
-https://t.me/proxy?server=84.201.14.50&port=8446&secret=ee1a41219b6c5d619c8e11a8e40356e45d7777772e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=66.33.22.250&port=56362&secret=33a0d5da6d86b932ecd7d5cf10829ea8
-https://t.me/proxy?server=193.149.129.18&port=8080&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=107.181.112.140&port=8882&secret=13ce75ec7f7c2fa55133ee58540b76ae
