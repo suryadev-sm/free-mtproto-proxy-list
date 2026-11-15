@@ -1,5 +1,6 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=Strait-of-Hormuz.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=neka18.ashwren.xyz&port=443&secret=ee0a3c55c05f348a0fc2c17b373f9a9157786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=zonyzo22.sorrelbay.xyz&port=8443&secret=ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275
 https://t.me/proxy?server=tg.getrocket.me&port=443&secret=7vhLW_InEuuiwSuMBYIjet10Zy5nZXRyb2NrZXQubWU
