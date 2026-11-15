@@ -1,5 +1,7 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=neka18.ashwren.xyz&port=443&secret=ee0a3c55c05f348a0fc2c17b373f9a9157786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=zonyzo22.sorrelbay.xyz&port=8443&secret=ee0a3c55c05f348a0fc2c17b373f9a9157617669746f2e7275
 https://t.me/proxy?server=tg.getrocket.me&port=443&secret=7vhLW_InEuuiwSuMBYIjet10Zy5nZXRyb2NrZXQubWU
 https://t.me/proxy?server=srv-xexobc.mtshop.xyz&port=443&secret=eeabe97898bfc981fc5a8a20f5953f08ac646c2e676f6f676c652e636f6d
 https://t.me/proxy?server=proxy.studebaker.ir&port=8443&secret=dd2d29e449fd4b6716dc41b132cfeaed31
@@ -20,6 +22,3 @@ https://t.me/proxy?server=65.109.106.179&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA
 https://t.me/proxy?server=ardebill.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=nakoshimon-jomong.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=nema75.kelpmoor.xyz&port=443&secret=ee3766caef3a1312832d053fae6706c1d86f7a6f6e2e7275
-https://t.me/proxy?server=ganymi63.sorrelbay.xyz&port=8443&secret=ee0387ddee19bfe48499262c18214228ec617669746f2e7275
-https://t.me/proxy?server=ir-ir.barhousefarm.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
