@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 16 Nov 2026, 17:40 UTC | **Working now:** 25
+**Last update:** 16 Nov 2026, 18:10 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -23,7 +23,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 3 | `49.12.20.45` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=49.12.20.45&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D) |
 | 4 | `37.27.84.178` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=37.27.84.178&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 5 | `109.70.74.144` | 8882 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=109.70.74.144&port=8882&secret=230e4944476b174e60eebbaeb8f03a73) |
-| 6 | `kvas.kemerovo.online` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c) |
+| 6 | `valenki.kemerovo.online` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65) |
 | 7 | `ddd.pikov.online` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ddd.pikov.online&port=443&secret=7nBxXAND1xkpeXcXjYd4hLpsaC1pbi1mMTAyLjFlMTAwLm5ldA) |
 | 8 | `puot.mozitop.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 9 | `ir-ir.billblog.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir-ir.billblog.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
