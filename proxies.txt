@@ -1,5 +1,11 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=a2.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=pearl.tealbriar.xyz&port=8443&secret=7tjiO1V5jlO2SHfULm75Sj9kcml2ZS5nb29nbGUuY29t
+https://t.me/proxy?server=mtproto.solasmp.online&port=8443&secret=422721c5d779648ac3a52bc9c43b4298
+https://t.me/proxy?server=cosmo.tealbriar.xyz&port=8443&secret=7tjiO1V5jlO2SHfULm75Sj9wZXRyb3ZpY2gucnU
+https://t.me/proxy?server=18.116.17.219&port=2053&secret=ee393716dd381ea70c3db3e94dc6288ef5636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=avangard.pareporeh.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
 https://t.me/proxy?server=5.75.226.255&port=75&secret=ameuTC0XO0FodFQ1yzE6OQ
@@ -19,9 +25,3 @@ https://t.me/proxy?server=proxy.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCI
 https://t.me/proxy?server=all.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA
-https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=77.42.86.7&port=8880&secret=eedfc04a3770990789e814bb9d3aa32eb57777772e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=212.227.184.30&port=28443&secret=20904625703c40cec8790512a00789cc
-https://t.me/proxy?server=109.70.74.107&port=8882&secret=6d22163a688160cd807f1f6577ee73d7
