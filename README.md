@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 16 Nov 2026, 02:10 UTC | **Working now:** 25
+**Last update:** 16 Nov 2026, 02:40 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -32,17 +32,16 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 12 | `proxy.gocdn-prime.ir` | 41816 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=proxy.gocdn-prime.ir&port=41816&secret=82f1ed94476a3948772eae5db8ea9646) |
 | 13 | `zenith.lanternmoss.top` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=zenith.lanternmoss.top&port=443&secret=ee3af44f54fb6bb24e664d38ffb1a781197a656e6974682e6c616e7465726e6d6f73732e746f70) |
 | 14 | `ir.peachsoft.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir.peachsoft.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 15 | `ir.lv223.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir.lv223.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 16 | `ghasam-be-shab.hosiyaman.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 17 | `khosh-khande.lolauth.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=khosh-khande.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 18 | `ivoryazure.heronglade.space` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ivoryazure.heronglade.space&port=443&secret=eecb583feec28443b065f8a1f3df502eea786170692e6f7a6f6e2e7275) |
-| 19 | `spruce.driftquill.click` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=spruce.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275) |
-| 20 | `gamma.velvetoak.work` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=gamma.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| 21 | `rio.fastprx.co.uk` | 2052 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=rio.fastprx.co.uk&port=2052&secret=d504bbceee548bfbd85697159a309b46) |
-| 22 | `proxtstar.live` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275) |
-| 23 | `my.fastprx.co.uk` | 2052 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=my.fastprx.co.uk&port=2052&secret=aea1191522c9b281d2633610a34e730d) |
-| 24 | `ir.konstruktion.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir.konstruktion.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 25 | `auto.fastprx.co.uk` | 2095 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=auto.fastprx.co.uk&port=2095&secret=11d63cf12397696e69f898333c713625) |
+| 15 | `ghasam-be-shab.hosiyaman.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 16 | `khosh-khande.lolauth.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=khosh-khande.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 17 | `breezeridge.heronglade.space` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=breezeridge.heronglade.space&port=8443&secret=eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275) |
+| 18 | `spruce.driftquill.click` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=spruce.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275) |
+| 19 | `gamma.velvetoak.work` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=gamma.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| 20 | `rio.fastprx.co.uk` | 2052 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=rio.fastprx.co.uk&port=2052&secret=d504bbceee548bfbd85697159a309b46) |
+| 21 | `proxtstar.live` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275) |
+| 22 | `my.fastprx.co.uk` | 2052 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=my.fastprx.co.uk&port=2052&secret=aea1191522c9b281d2633610a34e730d) |
+| 23 | `ir.konstruktion.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir.konstruktion.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 24 | `auto.fastprx.co.uk` | 2095 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=auto.fastprx.co.uk&port=2095&secret=11d63cf12397696e69f898333c713625) |
 
 ## How to use
 
