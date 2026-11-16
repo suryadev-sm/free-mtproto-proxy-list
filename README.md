@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 16 Nov 2026, 05:40 UTC | **Working now:** 25
+**Last update:** 16 Nov 2026, 06:10 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -38,11 +38,10 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 18 | `proxy.gocdn-prime.ir` | 41816 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=proxy.gocdn-prime.ir&port=41816&secret=82f1ed94476a3948772eae5db8ea9646) |
 | 19 | `zenith.lanternmoss.top` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=zenith.lanternmoss.top&port=443&secret=ee3af44f54fb6bb24e664d38ffb1a781197a656e6974682e6c616e7465726e6d6f73732e746f70) |
 | 20 | `ir.peachsoft.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir.peachsoft.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 21 | `ir.lv223.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir.lv223.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 22 | `ghasam-be-shab.hosiyaman.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 23 | `khosh-khande.lolauth.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=khosh-khande.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 24 | `breezeridge.heronglade.space` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=breezeridge.heronglade.space&port=8443&secret=eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275) |
-| 25 | `ivoryazure.heronglade.space` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ivoryazure.heronglade.space&port=443&secret=eecb583feec28443b065f8a1f3df502eea786170692e6f7a6f6e2e7275) |
+| 21 | `ghasam-be-shab.hosiyaman.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 22 | `khosh-khande.lolauth.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=khosh-khande.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 23 | `breezeridge.heronglade.space` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=breezeridge.heronglade.space&port=8443&secret=eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275) |
+| 24 | `ivoryazure.heronglade.space` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ivoryazure.heronglade.space&port=443&secret=eecb583feec28443b065f8a1f3df502eea786170692e6f7a6f6e2e7275) |
 
 ## How to use
 
