@@ -1,5 +1,9 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 https://t.me/proxy?server=88.99.30.71&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=a2.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=pearl.tealbriar.xyz&port=8443&secret=7tjiO1V5jlO2SHfULm75Sj9kcml2ZS5nb29nbGUuY29t
@@ -21,7 +25,3 @@ https://t.me/proxy?server=78.47.131.47&port=8443&secret=dd104462821249bd7ac51913
 https://t.me/proxy?server=46.62.224.5&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=crystal.heronglade.space&port=443&secret=ee2b60d9fbfb7978842047eb90c50862a0706574726f766963682e7275
 https://t.me/proxy?server=brookpearl.heronglade.space&port=8443&secret=ee2b60d9fbfb7978842047eb90c50862a0786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
-https://t.me/proxy?server=proxy.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=all.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
