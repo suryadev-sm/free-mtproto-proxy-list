@@ -1,5 +1,9 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=opss.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
 https://t.me/proxy?server=visu60.sorrelbay.xyz&port=443&secret=ee779e9f58a7841578350dfd6d464f462062726f777365722e79616e6465782e7275
 https://t.me/proxy?server=pony78.ashwren.xyz&port=8443&secret=ee779e9f58a7841578350dfd6d464f46206f7a6f6e2e7275
@@ -20,8 +24,4 @@ https://t.me/proxy?server=flare.hollowfern.sbs&port=8443&secret=eeb68b66e59328f0
 https://t.me/proxy?server=sarma.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=H2O.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=surf.suslik-cloud.com&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e636f6d
-https://t.me/proxy?server=forums.steampower.online&port=3864&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=proxy.gocdn-prime.ir&port=41816&secret=82f1ed94476a3948772eae5db8ea9646
-https://t.me/proxy?server=zenith.lanternmoss.top&port=443&secret=ee3af44f54fb6bb24e664d38ffb1a781197a656e6974682e6c616e7465726e6d6f73732e746f70
-https://t.me/proxy?server=ir.peachsoft.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-https://t.me/proxy?server=ir.lv223.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
