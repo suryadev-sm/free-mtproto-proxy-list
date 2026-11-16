@@ -1,5 +1,6 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=cart.risorius.top&port=443&secret=eea2c8021b23509aa5acc0c4c0a836d6be636172742e7269736f726975732e746f70
 https://t.me/proxy?server=85.133.194.41&port=8443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=85.133.194.34&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -24,4 +25,3 @@ https://t.me/proxy?server=mtproto.solasmp.online&port=8443&secret=422721c5d77964
 https://t.me/proxy?server=cosmo.tealbriar.xyz&port=8443&secret=7tjiO1V5jlO2SHfULm75Sj9wZXRyb3ZpY2gucnU
 https://t.me/proxy?server=18.116.17.219&port=2053&secret=ee393716dd381ea70c3db3e94dc6288ef5636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=kasco.alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
