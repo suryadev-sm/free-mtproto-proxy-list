@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 17 Nov 2026, 04:40 UTC | **Working now:** 25
+**Last update:** 17 Nov 2026, 05:10 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -39,10 +39,10 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 19 | `194.120.230.106` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=194.120.230.106&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
 | 20 | `ir.konstruktion.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir.konstruktion.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 21 | `jadid.porsorate.co.uk` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=jadid.porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 22 | `predator-artist.top` | 853 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=predator-artist.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
-| 23 | `akenai.top` | 853 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=akenai.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
-| 24 | `formuse.new.tg` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=formuse.new.tg&port=8880&secret=2cf6777b57d6b42378e1c727c339c63c) |
-| 25 | `71v.le.ezk.4.6b.eg.k.roseprox.xyz` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=71v.le.ezk.4.6b.eg.k.roseprox.xyz&port=8443&secret=eeNI0VVoN2N3qBrz9BcsrQ) |
+| 22 | `freeconnect.lol` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275) |
+| 23 | `predator-artist.top` | 853 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=predator-artist.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
+| 24 | `akenai.top` | 853 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=akenai.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b) |
+| 25 | `formuse.new.tg` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=formuse.new.tg&port=8880&secret=2cf6777b57d6b42378e1c727c339c63c) |
 
 ## How to use
 
