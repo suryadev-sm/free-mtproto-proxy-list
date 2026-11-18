@@ -18,6 +18,7 @@ https://t.me/proxy?server=stream.amaster.xyz&port=8443&secret=EERighJJvXrFGRMCIM
 https://t.me/proxy?server=49.13.174.169&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=156.229.161.164&port=5200&secret=ee25befcb1e06e96433a2fdfed5e0bafdd617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=jadide.mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
 https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
