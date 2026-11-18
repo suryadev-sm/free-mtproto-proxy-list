@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 18 Nov 2026, 13:40 UTC | **Working now:** 25
+**Last update:** 18 Nov 2026, 14:10 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -39,9 +39,9 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 19 | `proxy2.rayzatech.site` | 8445 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=proxy2.rayzatech.site&port=8445&secret=eefb8693c530954691a4cb8413692bb3987261797a61746563682e73697465) |
 | 20 | `mokatebe-275hs.ramezan-83.ir` | 2020 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=mokatebe-275hs.ramezan-83.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
 | 21 | `93.115.20.4` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=93.115.20.4&port=8443&secret=dd4d1904787e99a86dc23b12eb306f2712) |
-| 22 | `pofak.mikhay.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 23 | `dl.linux-orggv.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 24 | `ir.lv223.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir.lv223.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 22 | `proxtstar.live` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275) |
+| 23 | `pofak.mikhay.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| 24 | `dl.linux-orggv.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 | 25 | `ir.konstruktion.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir.konstruktion.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 
 ## How to use
