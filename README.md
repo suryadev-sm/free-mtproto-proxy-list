@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 18 Nov 2026, 08:40 UTC | **Working now:** 25
+**Last update:** 18 Nov 2026, 09:10 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -18,12 +18,12 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `srv-sfnjxv.nether.cfd` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=srv-sfnjxv.nether.cfd&port=443&secret=ee2963ae650074baec7e12802a367b039e646c2e676f6f676c652e636f6d) |
-| 2 | `phone-samsung.imalz.info` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=phone-samsung.imalz.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
-| 3 | `dast.salemr.ir` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=dast.salemr.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
-| 4 | `51.75.118.75` | 20124 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=51.75.118.75&port=20124&secret=55a70f331db6dddd499b8634ac4085e6) |
-| 5 | `188.40.209.85` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=188.40.209.85&port=8443&secret=ee89c6e505e20a156d0a4e0067054fb4567777772e636c6f7564666c6172652e636f6d) |
-| 6 | `177.3.252.184` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=177.3.252.184&port=443&secret=ee44cd74d18707cd8bb74920a99d445599646561726c792e6e657468657275732e636f6d) |
+| 1 | `speed.runserver.co.uk.` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 2 | `srv-sfnjxv.nether.cfd` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=srv-sfnjxv.nether.cfd&port=443&secret=ee2963ae650074baec7e12802a367b039e646c2e676f6f676c652e636f6d) |
+| 3 | `phone-samsung.imalz.info` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=phone-samsung.imalz.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d) |
+| 4 | `dast.salemr.ir` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=dast.salemr.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 5 | `51.75.118.75` | 20124 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=51.75.118.75&port=20124&secret=55a70f331db6dddd499b8634ac4085e6) |
+| 6 | `188.40.209.85` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=188.40.209.85&port=8443&secret=ee89c6e505e20a156d0a4e0067054fb4567777772e636c6f7564666c6172652e636f6d) |
 | 7 | `159.69.16.4` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=159.69.16.4&port=8443&secret=79e344818749bd7ac519130220c25d09) |
 | 8 | `156.229.165.164` | 7891 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=156.229.165.164&port=7891&secret=ee142a5d2e0680aaf91e5f256dc6ce548b617a7572652e6d6963726f736f66742e636f6d) |
 | 9 | `123.254.105.148` | 54299 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=123.254.105.148&port=54299&secret=ee6ee92fdc72be7136ebf206f1524b82d17777772e646f7579696e2e636f6d) |
