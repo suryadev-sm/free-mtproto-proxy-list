@@ -3,6 +3,7 @@ https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740
 https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=sso.prxtg.top&port=443&secret=ee81155f42409fce134de8524006051c6973736f2e70727874672e746f70
 https://t.me/proxy?server=web.mangoseason7.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=mt02.whiskeytangofoxtrot.lol&port=443&secret=ee263176541915fbe086f575195a00c2176d7430322e776869736b657974616e676f666f7874726f742e6c6f6c
 https://t.me/proxy?server=65.109.209.3&port=8880&secret=fb1e92755273356dbdcc76e04cfa2b41
 https://t.me/proxy?server=194.60.228.224&port=2096&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=156.229.161.249&port=5201&secret=ee3a51554a1c8542cc36572fd59c2f63f4617a7572652e6d6963726f736f66742e636f6d
@@ -24,4 +25,3 @@ https://t.me/proxy?server=199.246.127.144&port=443&secret=0b0205af4ea1511058c799
 https://t.me/proxy?server=partnerupload.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=free.deal-market.xyz&port=8443&secret=ee8b79c6d1a900b4bcd70637a416f3a5c1696e74656c2e636f6d
 https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
