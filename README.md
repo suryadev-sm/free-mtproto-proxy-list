@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 20 Nov 2026, 00:10 UTC | **Working now:** 25
+**Last update:** 20 Nov 2026, 00:40 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -42,7 +42,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 22 | `Strait-of-Hormuz.ir.bcsadwtgd.info.` | 7443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=Strait-of-Hormuz.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 23 | `khune.ir.bcsadwtgd.info.` | 7443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=khune.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 24 | `Speed-speed.co.uk.` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 25 | `philadelphia.hezarto.info.` | 5500 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw) |
+| 25 | `Hel-hi.co.uk.` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
 
 ## How to use
 
