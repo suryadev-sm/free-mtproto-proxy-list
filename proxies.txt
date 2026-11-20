@@ -1,9 +1,14 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=65.109.98.213&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=168.119.142.46&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=z.prxtg.top&port=443&secret=ee7e17a7ab0683c8c697302c61363d5e957a2e70727874672e746f70
 https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65
+https://t.me/proxy?server=parts.kemerovo.online&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
 https://t.me/proxy?server=vampire132541623.fun&port=443&secret=7khP_sc19xjiOZYzYUXTJ7V3d3cuY2xvdWRmbGFyZS5jb20
 https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=terminal.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
@@ -18,7 +23,3 @@ https://t.me/proxy?server=yek.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFG
 https://t.me/proxy?server=orbit.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=granite.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=91.221.191.138&port=443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=64.90.4.115&port=443&secret=6db17946aaf8719660c9c262d0590b1b
-https://t.me/proxy?server=4df.ir&port=443&secret=ee500c42fa7924b1fa823424d492ede9887777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=mt1.hiesen-proxy.ru&port=443&secret=eed598b3ad1fd1feb3673b4a6ecaa36274676f6f676c652e636f6d
-https://t.me/proxy?server=w1.hiesen-proxy.ru&port=443&secret=ee19f35317df4dff3cab0202fa96ee51de676f6f676c652e636f6d
