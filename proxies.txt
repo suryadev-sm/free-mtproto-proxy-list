@@ -1,5 +1,9 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=iran-cinema-acctor.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=godratmand-server.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b
+https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=www.gigimystore.ir&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
 https://t.me/proxy?server=tr5.lv223.info&port=443&secret=eee1c6bd80658022ae8e19eeeab500a17a7472352e6c763232332e696e666f
 https://t.me/proxy?server=tgf645.mohsentbar-m.com.tr&port=8443&secret=7nJW35voFDnWgAVBxldWM393d3cuY2xvdWRmbGFyZS5jb20
@@ -21,7 +25,3 @@ https://t.me/proxy?server=46.225.179.160&port=8443&secret=104462821249bd7ac51913
 https://t.me/proxy?server=31.57.185.157&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
 https://t.me/proxy?server=206.1.103.146&port=443&secret=ee39355d92b7a4acbfb1cc6d2fb01e9dc57777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=144.31.120.76&port=443&secret=80743e00ab033dbe2cd8e6d18815388c
-https://t.me/proxy?server=amir-kabir.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=zzzzzzz.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-https://t.me/proxy?server=ir.mhanna.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
