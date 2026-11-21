@@ -1,5 +1,6 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=ir.mhanna.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
 https://t.me/proxy?server=lotus.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=jade.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
@@ -24,4 +25,3 @@ https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCI
 https://t.me/proxy?server=tg.prxtg.top&port=443&secret=ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=mergo.vpn.iiproxy.com&port=8080&secret=eeb8be3110b71d70ad318b7c9ff1f009e37777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=66.33.22.232&port=47311&secret=eea7f3c91e82b64d05f9a1e7c38b42d6107777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=188.240.196.245&port=37346&secret=eeb195600658a7b7b60c5861922140c8fe7777772e636c6f7564666c6172652e636f6d
