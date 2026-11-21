@@ -4,7 +4,6 @@ https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMC
 https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=91.234.147.35&port=2020&secret=00000000000000000000000000000000
-https://t.me/proxy?server=45.158.169.181&port=443&secret=eea5fc2db45339e3697e17b34e215713e07777772e676f6f676c652e636f6d
 https://t.me/proxy?server=176.65.151.69&port=443&secret=eeb3ecb15b607e2a3e74c70ecd23da05627777772e7370656564746573742e6e6574
 https://t.me/proxy?server=breeze.logmanfi.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=mohandes.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -25,3 +24,4 @@ https://t.me/proxy?server=avangard.pareporeh.info.&port=5500&secret=7HQighJPBNMY
 https://t.me/proxy?server=fast1.lanternmoss.top&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=rocket.hollowfern.sbs&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
