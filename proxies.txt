@@ -1,5 +1,8 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=refiq.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=proxy.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=all.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=server63.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 https://t.me/proxy?server=maple.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946d61706c652e76656c76657477696e646f772e6363
 https://t.me/proxy?server=maple.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946d61706c652e7061706572746561706f742e636f6d
@@ -22,6 +25,3 @@ https://t.me/proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a30637
 https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=iran-cinema-acctor.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=godratmand-server.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b
-https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=www.gigimystore.ir&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
