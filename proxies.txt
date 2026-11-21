@@ -1,5 +1,11 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA
+https://t.me/proxy?server=north.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=bloom.driftquill.click&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=d1.jadroom.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
+https://t.me/proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
+https://t.me/proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466
 https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=iran-cinema-acctor.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=godratmand-server.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -19,9 +25,3 @@ https://t.me/proxy?server=alooo.unarc.com.tr&port=2083&secret=ee15cdd4bc67d23fa8
 https://t.me/proxy?server=91.234.147.19&port=443&secret=00000000000000000000000000000000
 https://t.me/proxy?server=88.198.67.154&port=18244&secret=ee29325e88a547fe04362e3bb6b00821f1647a656e2e7275
 https://t.me/proxy?server=85.133.194.16&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-https://t.me/proxy?server=82.115.17.112&port=8443&secret=8a2b2fb0adadeb6c20025c2e8fa3c92e
-https://t.me/proxy?server=77.216.4.110&port=443&secret=ee14697011e0c73f03e95d7b6919a2252b72616d6932382e746964656c61726b2e6363
-https://t.me/proxy?server=65.109.178.147&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-https://t.me/proxy?server=5.231.240.177&port=443&secret=eef69bd7d5cc35eecff701cc2b279a464e7777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=46.225.179.160&port=8443&secret=104462821249bd7ac519130220c8dd09
-https://t.me/proxy?server=31.57.185.157&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
