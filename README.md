@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 22 Nov 2026, 15:40 UTC | **Working now:** 25
+**Last update:** 22 Nov 2026, 16:10 UTC | **Working now:** 23
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -18,14 +18,14 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `ccc.horizon555.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 2 | `one.horizon555.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 3 | `pofak.mikhay.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 4 | `worldmaster.varomax.co.uk.` | 5500 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA) |
-| 5 | `srv-thkuku.mtp-ab.lol` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=srv-thkuku.mtp-ab.lol&port=443&secret=ee5868737832808a2aaab957ba069a1005646c2e676f6f676c652e636f6d) |
-| 6 | `nl.dynamicsmp.ir` | 8080 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nl.dynamicsmp.ir&port=8080&secret=ee6f1bb456418785be62056e6c70d6f8b47777772e636c6f7564666c6172652e636f6d) |
-| 7 | `mr.ps.u6.goh.ic.m.99-99-63-75.ir` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=mr.ps.u6.goh.ic.m.99-99-63-75.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 8 | `95.135.125.210` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=95.135.125.210&port=443&secret=eec0bf83eb900566590284d455135056cd626973636f7474692e79656b74616e65742e636f6d) |
+| 1 | `91.98.97.225` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 2 | `ccc.horizon555.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 3 | `one.horizon555.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 4 | `pofak.mikhay.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| 5 | `worldmaster.varomax.co.uk.` | 5500 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA) |
+| 6 | `srv-thkuku.mtp-ab.lol` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=srv-thkuku.mtp-ab.lol&port=443&secret=ee5868737832808a2aaab957ba069a1005646c2e676f6f676c652e636f6d) |
+| 7 | `nl.dynamicsmp.ir` | 8080 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nl.dynamicsmp.ir&port=8080&secret=ee6f1bb456418785be62056e6c70d6f8b47777772e636c6f7564666c6172652e636f6d) |
+| 8 | `mr.ps.u6.goh.ic.m.99-99-63-75.ir` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=mr.ps.u6.goh.ic.m.99-99-63-75.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 9 | `47.83.158.121` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=47.83.158.121&port=443&secret=ee32f0f6ab5ca99f05bbee78eb54e2d5a0617a7572652e6d6963726f736f66742e636f6d) |
 | 10 | `ir.jojeh.info` | 999 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir.jojeh.info&port=999&secret=HhPLkuXkVRr2IZaOEfMu2g) |
 | 11 | `nocloudnew.co.uk.` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
@@ -41,8 +41,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 21 | `bo0ji.co.uk.` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
 | 22 | `im.dumaniltd.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 23 | `ir.closcloud.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 24 | `bookmook.hichibehichi-co.info.` | 2882 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1) |
-| 25 | `lynx.driftquill.click` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=lynx.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275) |
 
 ## How to use
 
