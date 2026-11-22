@@ -1,5 +1,6 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
 https://t.me/proxy?server=cdn.divpal.com&port=8443&secret=dd71889eb517157210d61df330a5f11d95
 https://t.me/proxy?server=95.216.181.157&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.210.109.137&port=443&secret=dd104462821249bd7ac519130220c25d09
@@ -24,4 +25,3 @@ https://t.me/proxy?server=www.jodaeimanam.ir&port=8443&secret=dd1603010200010001
 https://t.me/proxy?server=rebeca.th3team.ir&port=7194&secret=ee2eb8a9073439b9c4555189b3860380cd626c6f672e6972
 https://t.me/proxy?server=quietlinen.top&port=443&secret=dd92d27acb475a3d8ac5cb58cdcae32092
 https://t.me/proxy?server=65.21.227.204&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-https://t.me/proxy?server=168.119.142.46&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
