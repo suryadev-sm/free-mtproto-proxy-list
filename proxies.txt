@@ -1,5 +1,9 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=gapolo64.kelpmoor.xyz&port=443&secret=eefa048bc9fcc498244c3c7c8b2c2388d562726f777365722e79616e6465782e7275
+https://t.me/proxy?server=delede54.sorrelbay.xyz&port=8443&secret=eefa048bc9fcc498244c3c7c8b2c2388d5786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=rain.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c947261696e2e76656c76657477696e646f772e6363
+https://t.me/proxy?server=rain.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c947261696e2e7061706572746561706f742e636f6d
 https://t.me/proxy?server=torobchesho.co.uk.&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b
 https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=you.pelastic.co.uk.&port=443&secret=ddc3b375786a3b9630e44cf87d2033a441
@@ -21,7 +25,3 @@ https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrF
 https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=91.234.147.35&port=2020&secret=00000000000000000000000000000000
 https://t.me/proxy?server=45.158.169.181&port=443&secret=eea5fc2db45339e3697e17b34e215713e07777772e676f6f676c652e636f6d
-https://t.me/proxy?server=176.65.151.69&port=443&secret=eeb3ecb15b607e2a3e74c70ecd23da05627777772e7370656564746573742e6e6574
-https://t.me/proxy?server=breeze.logmanfi.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=mohandes.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65
