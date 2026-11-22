@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 22 Nov 2026, 02:10 UTC | **Working now:** 25
+**Last update:** 22 Nov 2026, 02:40 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -42,7 +42,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 22 | `176.65.151.69` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=176.65.151.69&port=443&secret=eeb3ecb15b607e2a3e74c70ecd23da05627777772e7370656564746573742e6e6574) |
 | 23 | `breeze.logmanfi.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=breeze.logmanfi.info&port=8443&secret=1603010200010001fc030386e24c3add) |
 | 24 | `mohandes.davooti.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=mohandes.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 25 | `parts.kemerovo.online` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=parts.kemerovo.online&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c) |
 
 ## How to use
 
