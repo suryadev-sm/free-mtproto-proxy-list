@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 22 Nov 2026, 09:40 UTC | **Working now:** 25
+**Last update:** 22 Nov 2026, 10:10 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -42,7 +42,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 22 | `178.104.36.158` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=178.104.36.158&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01) |
 | 23 | `138.201.21.16` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=138.201.21.16&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
 | 24 | `113.20.6.216` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=113.20.6.216&port=443&secret=b89b70714409426dd9353441f770dcf1) |
-| 25 | `proxtstar.live` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275) |
+| 25 | `valley.velvetwindow.cc` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=valley.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9476616c6c65792e76656c76657477696e646f772e6363) |
 
 ## How to use
 
