@@ -1,5 +1,10 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b
+https://t.me/proxy?server=summit.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275
+https://t.me/proxy?server=work.deal-market.xyz&port=853&secret=eed54b7276c5dfb4e0ecb7996de53dc9ae696e74656c2e636f6d
+https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=refiq.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=proxy.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=all.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
@@ -10,7 +15,7 @@ https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIM
 https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
 https://t.me/proxy?server=onyx.lanternmoss.top&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=lynx.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=4x4.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
+https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
 https://t.me/proxy?server=harborwinter.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94686172626f7277696e7465722e76656c76657477696e646f772e6363
 https://t.me/proxy?server=harborwinter.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94686172626f7277696e7465722e7061706572746561706f742e636f6d
 https://t.me/proxy?server=fig.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946669672e76656c76657477696e646f772e6363
@@ -20,8 +25,3 @@ https://t.me/proxy?server=cdn.divpal.com&port=8443&secret=dd71889eb517157210d61d
 https://t.me/proxy?server=95.216.181.157&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.210.109.137&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.210.108.83&port=443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=82.38.171.58&port=8443&secret=d9c0e7d5a2f3b4e5c6d7a8b9c0d1e2f3
-https://t.me/proxy?server=65.109.250.107&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=chat.appnormoor.com&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
-https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
