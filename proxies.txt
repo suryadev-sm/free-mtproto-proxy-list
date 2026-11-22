@@ -1,5 +1,14 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=cdn.divpal.com&port=8443&secret=dd71889eb517157210d61df330a5f11d95
+https://t.me/proxy?server=95.216.181.157&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=91.210.109.137&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=91.210.108.83&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=82.38.171.58&port=8443&secret=d9c0e7d5a2f3b4e5c6d7a8b9c0d1e2f3
+https://t.me/proxy?server=65.109.250.107&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=chat.appnormoor.com&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
+https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=ir-ir-ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=ir.mhanna.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=khaje-hafez-shirazi.logmanfi.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -16,12 +25,3 @@ https://t.me/proxy?server=rebeca.th3team.ir&port=7194&secret=ee2eb8a9073439b9c45
 https://t.me/proxy?server=quietlinen.top&port=443&secret=dd92d27acb475a3d8ac5cb58cdcae32092
 https://t.me/proxy?server=65.21.227.204&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=168.119.142.46&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-https://t.me/proxy?server=quasar.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=citrus.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=proxy.tgp.qzz.io&port=443&secret=eef61514eee9a81f40130b3f97910da91d767365696e737472756d656e74692e7275
-https://t.me/proxy?server=nab.delestershop1.ir&port=8443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
-https://t.me/proxy?server=daili.tgzy.org&port=9443&secret=ee8f2f1706eef86ada5fb6897b99a99f666461696c692e74677a792e6f7267
-https://t.me/proxy?server=ad3tg.tgp.qzz.io&port=443&secret=ee520dded9239625f8175634d26dffec44767365696e737472756d656e74692e7275
-https://t.me/proxy?server=ad2tg.tgp.qzz.io&port=443&secret=eef862be55a385a86b6dd05490e54b8703767365696e737472756d656e74692e7275
-https://t.me/proxy?server=77.216.4.120&port=8443&secret=eee2e4aa087800d8ad12ebf6dfeb4cc97172696c6533332e6665726e6c61726b2e78797a
-https://t.me/proxy?server=5.230.183.36&port=443&secret=ee58192529dda35d5122aa1fe09d80f9c57777772e62696e672e636f6d
