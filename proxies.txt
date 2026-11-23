@@ -1,5 +1,7 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=sso.prxtg.top&port=443&secret=ee81155f42409fce134de8524006051c6973736f2e70727874672e746f70
 https://t.me/proxy?server=refiq.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=proxy.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=all.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
@@ -8,7 +10,6 @@ https://t.me/proxy?server=128.140.29.187&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=ir.jojeh.info&port=999&secret=HhPLkuXkVRr2IZaOEfMu2g
 https://t.me/proxy?server=linen.ashwren.xyz&port=443&secret=ee6fcf868535df2309ee2f6ea5a6563ef96f7a6f6e2e7275
 https://t.me/proxy?server=clover.kelpmoor.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
 https://t.me/proxy?server=www.zone51.website&port=443&secret=ee3c3e7fd2980e2b3c5d8ffaf8bf4caffa7777772e7a6f6e6535312e77656273697465
 https://t.me/proxy?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
@@ -24,4 +25,3 @@ https://t.me/proxy?server=grovewillow.paperteapot.com&port=443&secret=eed09fb30e
 https://t.me/proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466
 https://t.me/proxy?server=mohsen2.miosen.cyou&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=mohsen.helps.help&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=echo.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
