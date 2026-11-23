@@ -1,5 +1,8 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b
 https://t.me/proxy?server=fast.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=Tond.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
@@ -22,6 +25,3 @@ https://t.me/proxy?server=ketab.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=crestpolar.heronglade.space&port=8443&secret=ee98d3085f116d2177ffad4b9fdbf359a2786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=lavenderfrost.heronglade.space&port=443&secret=ee98d3085f116d2177ffad4b9fdbf359a2706574726f766963682e7275
 https://t.me/proxy?server=aseman.lunavane.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=violet.ashwren.xyz&port=443&secret=ee6fcf868535df2309ee2f6ea5a6563ef962726f777365722e79616e6465782e7275
-https://t.me/proxy?server=river.sorrelbay.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9617669746f2e7275
-https://t.me/proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
