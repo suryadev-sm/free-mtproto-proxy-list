@@ -1,5 +1,9 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=violet.ashwren.xyz&port=443&secret=ee6fcf868535df2309ee2f6ea5a6563ef962726f777365722e79616e6465782e7275
+https://t.me/proxy?server=river.sorrelbay.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9617669746f2e7275
+https://t.me/proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
+https://t.me/proxy?server=rabotaetwork.lol&port=443&secret=ee47de80df1bc0d9445e351affb498dc6a7261626f74616574776f726b2e6c6f6c
 https://t.me/proxy?server=torobchesho.co.uk.&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b
 https://t.me/proxy?server=Yaghoub.Leys.Safari.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=great.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -21,7 +25,3 @@ https://t.me/proxy?server=77.42.86.7&port=7&secret=ee5f7ce28a2c4816c6c923dfd4d56
 https://t.me/proxy?server=23.88.36.117&port=443&secret=eefe2b2ee1ef5951643836dc9db42e6f687777772e62696e672e636f6d
 https://t.me/proxy?server=167.233.100.23&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=138.201.21.32&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
-https://t.me/proxy?server=off.namenewok.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=up.samavar.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=cove.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94636f76652e76656c76657477696e646f772e6363
-https://t.me/proxy?server=cove.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94636f76652e7061706572746561706f742e636f6d
