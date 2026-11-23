@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 23 Nov 2026, 20:40 UTC | **Working now:** 25
+**Last update:** 23 Nov 2026, 21:10 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -37,12 +37,11 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 17 | `nfc.neo-duo.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nfc.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 | 18 | `usb.neo-duo.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=usb.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 | 19 | `fast.prxtg.top` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=fast.prxtg.top&port=443&secret=ee2c6cbde6f1e8947d8495ea1de476fc0b64726976652e676f6f676c652e636f6d) |
-| 20 | `professor.hasratepaeiz.website.` | 7070 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=professor.hasratepaeiz.website.&port=7070&secret=iORid5lJ237IiBMGYMQMdw) |
-| 21 | `relay.lanternmoss.top` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=relay.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275) |
-| 22 | `harbor.hollowfern.sbs` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=harbor.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| 23 | `alhosein.co.uk` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 24 | `porsorate.co.uk` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 25 | `willow.kelpmoor.xyz` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=willow.kelpmoor.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef96f7a6f6e2e7275) |
+| 20 | `relay.lanternmoss.top` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=relay.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275) |
+| 21 | `harbor.hollowfern.sbs` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=harbor.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| 22 | `alhosein.co.uk` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 23 | `porsorate.co.uk` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 24 | `willow.kelpmoor.xyz` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=willow.kelpmoor.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef96f7a6f6e2e7275) |
 
 ## How to use
 
