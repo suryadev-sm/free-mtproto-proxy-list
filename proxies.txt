@@ -1,5 +1,8 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=91.107.140.144&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=65.109.106.179&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
 https://t.me/proxy?server=dew.ashwren.xyz&port=443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=fable.kelpmoor.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9706574726f766963682e7275
@@ -20,8 +23,4 @@ https://t.me/proxy?server=willowoak.paperteapot.com&port=443&secret=eed09fb30e9b
 https://t.me/proxy?server=178.83.122.108&port=443&secret=ee8d86dc0075ba6779f5ad056cf0a21527626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=31.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=21.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=mt-sw.alex-photo-notes.pl&port=443&secret=eeee677bf5d2356b3744e1208cc35d70887777772e676f6f676c652e636f6d
 https://t.me/proxy?server=neon.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275
-https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
