@@ -8,7 +8,6 @@ https://t.me/proxy?server=torobchesho.co.uk.&port=443&secret=ee5f7ce28a2c4816c6c
 https://t.me/proxy?server=Yaghoub.Leys.Safari.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=great.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
-https://t.me/proxy?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
 https://t.me/proxy?server=zabol.ir.khdhdjyfdjhy.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=turbo-jet.balestic.ir.ghsisncbv.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=mist.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
@@ -25,3 +24,4 @@ https://t.me/proxy?server=77.42.86.7&port=7&secret=ee5f7ce28a2c4816c6c923dfd4d56
 https://t.me/proxy?server=23.88.36.117&port=443&secret=eefe2b2ee1ef5951643836dc9db42e6f687777772e62696e672e636f6d
 https://t.me/proxy?server=167.233.100.23&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=138.201.21.32&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=off.namenewok.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
