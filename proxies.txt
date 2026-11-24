@@ -1,10 +1,14 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=stable.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=stack.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=91.210.108.83&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=91.221.191.115&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=otter.heronglade.space&port=8443&secret=ee69ddd419c3b2269c2959013a2265f734786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=sail.heronglade.space&port=443&secret=ee69ddd419c3b2269c2959013a2265f734706574726f766963682e7275
 https://t.me/proxy?server=85.133.200.45&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
@@ -21,7 +25,3 @@ https://t.me/proxy?server=forest.sorrelbay.xyz&port=8443&secret=eee788e53ce009b9
 https://t.me/proxy?server=info.sibasiba.space&port=443&secret=7rMwK4zm8Y5eXzI2Dh1wpP9pbmZvLnNpYmFzaWJhLnNwYWNl
 https://t.me/proxy?server=rabotaetwork.lol&port=443&secret=ee47de80df1bc0d9445e351affb498dc6a7261626f74616574776f726b2e6c6f6c
 https://t.me/proxy?server=85.133.200.41&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk
-https://t.me/proxy?server=85.133.200.42&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk
-https://t.me/proxy?server=85.133.200.44&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
-https://t.me/proxy?server=clinic-roya.ir&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d
