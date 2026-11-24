@@ -1,5 +1,11 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=comet.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=shadow.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=lotus.heronglade.space&port=8443&secret=ee69ddd419c3b2269c2959013a2265f734786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=comet.heronglade.space&port=443&secret=ee69ddd419c3b2269c2959013a2265f734706574726f766963682e7275
+https://t.me/proxy?server=cedarfig.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9463656461726669672e76656c76657477696e646f772e6363
+https://t.me/proxy?server=cedarfig.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9463656461726669672e7061706572746561706f742e636f6d
 https://t.me/proxy?server=dark21.petros-es.co.uk.&port=155&secret=eec155cefd6ecd88b8ccf1f39bf756fe886461726b32312e706574726f732d65732e636f2e756b
 https://t.me/proxy?server=dark22.petros-es.co.uk.&port=155&secret=ee13b723d71c1fe8278dae4ba37073709b6461726b32322e706574726f732d65732e636f2e756b
 https://t.me/proxy?server=dark.qavi-13.co.uk&port=443&secret=ee4827b8ea541fdb99dff9c244ba7781f37777772e676f6f676c652e636f6d
@@ -7,7 +13,6 @@ https://t.me/proxy?server=135.181.74.189&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=135.181.74.183&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=star.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=cosmo.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
 https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -19,7 +24,4 @@ https://t.me/proxy?server=glademarble.velvetwindow.cc&port=443&secret=eed09fb30e
 https://t.me/proxy?server=glademarble.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94676c6164656d6172626c652e7061706572746561706f742e636f6d
 https://t.me/proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374
 https://t.me/proxy?server=www.zone51.online&port=443&secret=eefaf243dd3c6f6d19c3d1feb60c85b0237777772e7a6f6e6535312e6f6e6c696e65
-https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
 https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
-https://t.me/proxy?server=185.194.191.14&port=443&secret=ee810803e42ee7902e8f00629c7ea39114636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=tg.prxtg.top&port=443&secret=ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d
