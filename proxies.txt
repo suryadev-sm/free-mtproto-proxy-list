@@ -1,5 +1,6 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=delomi54.kelpmoor.xyz&port=443&secret=eee788e53ce009b9fbd93be151fb3c9667617669746f2e7275
 https://t.me/proxy?server=mari28.sorrelbay.xyz&port=8443&secret=eee788e53ce009b9fbd93be151fb3c96676f7a6f6e2e7275
 https://t.me/proxy?server=nega52.ashwren.xyz&port=443&secret=eeebf9726b89cc8ca940357d833f491a04786170692e6f7a6f6e2e7275
@@ -19,5 +20,4 @@ https://t.me/proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac51
 https://t.me/proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=wave.heronglade.space&port=8443&secret=ee98d3085f116d2177ffad4b9fdbf359a2706574726f766963682e7275
 https://t.me/proxy?server=pixel.heronglade.space&port=443&secret=ee98d3085f116d2177ffad4b9fdbf359a2786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=nyakawai.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
