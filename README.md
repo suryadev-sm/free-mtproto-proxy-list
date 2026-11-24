@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 24 Nov 2026, 14:40 UTC | **Working now:** 25
+**Last update:** 24 Nov 2026, 15:10 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -36,13 +36,13 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 16 | `nova.ashwren.xyz` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nova.ashwren.xyz&port=8443&secret=eee788e53ce009b9fbd93be151fb3c966762726f777365722e79616e6465782e7275) |
 | 17 | `as.mkim.click` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b) |
 | 18 | `83.243.86.176` | 7443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=83.243.86.176&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 19 | `kestrel.velvetoak.work` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=kestrel.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| 20 | `service.hollowfern.sbs` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=service.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275) |
-| 21 | `5.222.9.13` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.9.13&port=443&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q) |
-| 22 | `5.222.2.71` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.2.71&port=443&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q) |
-| 23 | `fast.strobox.info` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=fast.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
-| 24 | `max.fastprx.top` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=max.fastprx.top&port=443&secret=eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d) |
-| 25 | `silver.ciaude.co.uk` | 2096 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 19 | `masachoset.rah-toro-mikhanad.info.` | 9988 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=masachoset.rah-toro-mikhanad.info.&port=9988&secret=6HQighJPCNNYVRNB6tdkAg) |
+| 20 | `kestrel.velvetoak.work` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=kestrel.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| 21 | `service.hollowfern.sbs` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=service.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275) |
+| 22 | `5.222.9.13` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.9.13&port=443&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q) |
+| 23 | `5.222.2.71` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.2.71&port=443&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q) |
+| 24 | `fast.strobox.info` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=fast.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
+| 25 | `max.fastprx.top` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=max.fastprx.top&port=443&secret=eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d) |
 
 ## How to use
 
