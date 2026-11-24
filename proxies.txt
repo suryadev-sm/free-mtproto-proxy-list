@@ -1,5 +1,7 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=87.248.144.253&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=gram.prxtg.top&port=443&secret=eeabde1be2accd3413ec8e8a0fa256287f64726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=web.cocorichmond.site&port=8880&secret=6HQighJPCNNYVRNB6tdkAg
 https://t.me/proxy?server=tebarad.ir&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=smtp.azmaster.xyz&port=8443&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D
@@ -23,5 +25,3 @@ https://t.me/proxy?server=otter.heronglade.space&port=8443&secret=ee69ddd419c3b2
 https://t.me/proxy?server=sail.heronglade.space&port=443&secret=ee69ddd419c3b2269c2959013a2265f734706574726f766963682e7275
 https://t.me/proxy?server=85.133.200.45&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
 https://t.me/proxy?server=nfc.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=dark23.qavi-13.co.uk.&port=155&secret=eedeb8be6682edb1cce7e5cdabbb8891456461726b32332e716176692d31332e636f2e756b
-https://t.me/proxy?server=dark.qavi-13.co.uk&port=1550&secret=c176866d10f06db5b5b2a9defb9e1fd5
