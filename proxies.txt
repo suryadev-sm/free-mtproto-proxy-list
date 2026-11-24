@@ -1,5 +1,11 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=web.cocorichmond.site.&port=8880&secret=6HQighJPCNNYVRNB6tdkAg
+https://t.me/proxy?server=cirrus.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=haven.driftquill.click&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=oodhx.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=ohdox.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c
 https://t.me/proxy?server=87.248.144.50&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=87.248.144.60&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=87.248.144.249&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -19,9 +25,3 @@ https://t.me/proxy?server=refiq.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCI
 https://t.me/proxy?server=proxy.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=all.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=dah.torob.ir.solzairanbad.ir&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=yek.torob.ir.solzairanbad.ir&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=do.torob.ir.solzairanbad.ir&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=rocket.driftquill.click&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=flint.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=47.musiu7g.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=46.225.255.217&port=443&secret=eec6b40f6632c195da208d921acdba04077777772e636c6f7564666c6172652e636f6d
