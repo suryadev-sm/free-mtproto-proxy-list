@@ -1,5 +1,7 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374
+https://t.me/proxy?server=www.zone51.online&port=443&secret=eefaf243dd3c6f6d19c3d1feb60c85b0237777772e7a6f6e6535312e6f6e6c696e65
 https://t.me/proxy?server=yostavpn.casacam.net&port=443&secret=eefd53c37c26a2c41b56660286b32ee590796f73746176706e2e6361736163616d2e6e6574
 https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
 https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
@@ -22,4 +24,3 @@ https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGR
 https://t.me/proxy?server=nfc.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=usb.neo-duo.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=fast.prxtg.top&port=443&secret=ee2c6cbde6f1e8947d8495ea1de476fc0b64726976652e676f6f676c652e636f6d
-https://t.me/proxy?server=harbor.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
