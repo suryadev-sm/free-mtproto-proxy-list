@@ -1,5 +1,12 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=edge.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=flint.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=204.168.134.102&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=204.168.197.98&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=summit.ashwren.xyz&port=443&secret=eee788e53ce009b9fbd93be151fb3c9667617669746f2e7275
+https://t.me/proxy?server=zephyrotter.sorrelbay.xyz&port=8443&secret=eee788e53ce009b9fbd93be151fb3c96676f7a6f6e2e7275
+https://t.me/proxy?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
 https://t.me/proxy?server=ir-ir-ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=ir-countdown.lewisj.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=rain.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
@@ -15,13 +22,6 @@ https://t.me/proxy?server=origin.velvetoak.work&port=8443&secret=eee37d2ac00492b
 https://t.me/proxy?server=tg9.chadvpn.shop&port=443&secret=eebaac6961af36ddbee993d02acdd485567275747562652e7275
 https://t.me/proxy?server=tg8.chadvpn.shop&port=443&secret=ee3931ebe70d8f4e37acd9c3db534b17627275747562652e7275
 https://t.me/proxy?server=tg-2dec1d.topazatlas.info&port=443&secret=eedba375040bb359c503303574db0342be7777772e62696e672e636f6d
-https://t.me/proxy?server=professor.hasratepaeiz.website&port=7070&secret=iORid5lJ237IiBMGYMQMdw
 https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd4e505989efcd64d6c988dee68b3427c5
 https://t.me/proxy?server=john31.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=farrowing.forgiven.guantanamo.homey.wagtail.hapka.info&port=47019&secret=3c7dde3640ac06c5dd3e77a57ffc96cd
-https://t.me/proxy?server=dark22.petros-es.co.uk&port=155&secret=ee13b723d71c1fe8278dae4ba37073709b6461726b32322e706574726f732d65732e636f2e756b
-https://t.me/proxy?server=dark21.petros-es.co.uk&port=155&secret=eec155cefd6ecd88b8ccf1f39bf756fe886461726b32312e706574726f732d65732e636f2e756b
-https://t.me/proxy?server=dark1.petros-es.co.uk&port=443&secret=ee06da95077ffc618fc0d709c1653cea497777772e676f6f676c652e636f6d
-https://t.me/proxy?server=caboched.caesarism.genomic.siphuncle.vientiane.hapka.info&port=46124&secret=4cc9acb8dcf18a94c0723d8f9ad27389
-https://t.me/proxy?server=91.107.145.24&port=443&secret=ee3e9d97a7807e1f51879ee67a7c8fd9857777772e62696e672e636f6d
-https://t.me/proxy?server=65.108.3.108&port=25082&secret=8f377d952314d1fdb717c6ee9150c47d
