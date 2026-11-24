@@ -1,5 +1,7 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=ir-neverland.nowhearthis.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
+https://t.me/proxy?server=ir-mainland.steveharrop.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=service.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=tango.lanternmoss.top&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
@@ -23,5 +25,3 @@ https://t.me/proxy?server=dark.qavi-13.co.uk&port=443&secret=ee4827b8ea541fdb99d
 https://t.me/proxy?server=135.181.74.189&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=135.181.74.183&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=star.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=cosmo.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
