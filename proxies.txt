@@ -1,5 +1,8 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=194.120.230.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=195.62.32.55&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=194.120.230.40&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=edge.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=flint.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=204.168.134.102&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -22,6 +25,3 @@ https://t.me/proxy?server=origin.velvetoak.work&port=8443&secret=eee37d2ac00492b
 https://t.me/proxy?server=tg9.chadvpn.shop&port=443&secret=eebaac6961af36ddbee993d02acdd485567275747562652e7275
 https://t.me/proxy?server=tg8.chadvpn.shop&port=443&secret=ee3931ebe70d8f4e37acd9c3db534b17627275747562652e7275
 https://t.me/proxy?server=tg-2dec1d.topazatlas.info&port=443&secret=eedba375040bb359c503303574db0342be7777772e62696e672e636f6d
-https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd4e505989efcd64d6c988dee68b3427c5
-https://t.me/proxy?server=john31.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=farrowing.forgiven.guantanamo.homey.wagtail.hapka.info&port=47019&secret=3c7dde3640ac06c5dd3e77a57ffc96cd
