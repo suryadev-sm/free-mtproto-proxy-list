@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 24 Nov 2026, 13:40 UTC | **Working now:** 25
+**Last update:** 24 Nov 2026, 14:10 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -18,7 +18,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `masachoset.rah-toro-mikhanad.info.` | 9988 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=masachoset.rah-toro-mikhanad.info.&port=9988&secret=6HQighJPCNNYVRNB6tdkAg) |
+| 1 | `83.243.86.176` | 7443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=83.243.86.176&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 2 | `kestrel.velvetoak.work` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=kestrel.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
 | 3 | `service.hollowfern.sbs` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=service.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275) |
 | 4 | `5.222.9.13` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.9.13&port=443&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q) |
@@ -42,7 +42,6 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 22 | `62.113.104.219` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=62.113.104.219&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d6d2e6265626f6f2e7275) |
 | 23 | `5.222.5.51` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.5.51&port=8443&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D) |
 | 24 | `31.128.47.140` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=31.128.47.140&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d6d2e6265626f6f2e7275) |
-| 25 | `138.201.223.114` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=138.201.223.114&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
 
 ## How to use
 
