@@ -1,5 +1,8 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=dark23.qavi-13.co.uk.&port=155&secret=eedeb8be6682edb1cce7e5cdabbb8891456461726b32332e716176692d31332e636f2e756b
+https://t.me/proxy?server=dark.qavi-13.co.uk&port=1550&secret=c176866d10f06db5b5b2a9defb9e1fd5
+https://t.me/proxy?server=dark1.qavi-13.co.uk&port=1550&secret=cc4b1c883a3b456d402c73a5c23a42e3
 https://t.me/proxy?server=testt.samanehha.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=testt.paydayesh.ir&port=8443&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=test.leagan.ir&port=443&secret=ee77065a7b6d2546be167f2f4a43f0d21f746573742e6c656167616e2e6972
@@ -22,6 +25,3 @@ https://t.me/proxy?server=nyakawai.shop&port=443&secret=eeec15a78c3842e866c302c8
 https://t.me/proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
 https://t.me/proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466
 https://t.me/proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
