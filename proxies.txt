@@ -1,5 +1,9 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=lotuspixel.kelpmoor.xyz&port=443&secret=eea6765d2e85cb4496f4e0fd16b26b94c46f7a6f6e2e7275
+https://t.me/proxy?server=valley.sorrelbay.xyz&port=8443&secret=eea6765d2e85cb4496f4e0fd16b26b94c4786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=reed.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94726565642e76656c76657477696e646f772e6363
+https://t.me/proxy?server=reed.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94726565642e7061706572746561706f742e636f6d
 https://t.me/proxy?server=87.248.144.151&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
 https://t.me/proxy?server=87.248.144.152&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
 https://t.me/proxy?server=87.248.144.153&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk
@@ -21,7 +25,3 @@ https://t.me/proxy?server=gari91.sorrelbay.xyz&port=443&secret=eea6765d2e85cb449
 https://t.me/proxy?server=nyra78.ashwren.xyz&port=8443&secret=eea6765d2e85cb4496f4e0fd16b26b94c4617669746f2e7275
 https://t.me/proxy?server=gavi83.sorrelbay.xyz&port=443&secret=ee26b9ec16854635afb251cb286cd72618617669746f2e7275
 https://t.me/proxy?server=lenyma85.ashwren.xyz&port=8443&secret=ee26b9ec16854635afb251cb286cd726186f7a6f6e2e7275
-https://t.me/proxy?server=comet.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94636f6d65742e76656c76657477696e646f772e6363
-https://t.me/proxy?server=comet.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94636f6d65742e7061706572746561706f742e636f6d
-https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
-https://t.me/proxy?server=www.zone51.website&port=443&secret=ee3c3e7fd2980e2b3c5d8ffaf8bf4caffa7777772e7a6f6e6535312e77656273697465
