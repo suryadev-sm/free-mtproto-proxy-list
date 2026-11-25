@@ -2,7 +2,6 @@ https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=www.zone51.website&port=443&secret=ee3c3e7fd2980e2b3c5d8ffaf8bf4caffa7777772e7a6f6e6535312e77656273697465
 https://t.me/proxy?server=87.248.144.158&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk
-https://t.me/proxy?server=yostavpn.casacam.net&port=443&secret=eefd53c37c26a2c41b56660286b32ee590796f73746176706e2e6361736163616d2e6e6574
 https://t.me/proxy?server=afkar.lavazem1.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=winter.lavazem2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=perfect.lavazem3.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
@@ -25,3 +24,4 @@ https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=stable.velvetoak.work&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=stack.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
