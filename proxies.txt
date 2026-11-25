@@ -1,5 +1,8 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=cipher.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=signal.hollowfern.sbs&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=91.107.171.116&port=8443&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D
 https://t.me/proxy?server=you.mf.7f.li.6.5nb.ir&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=ww.hu.or.ge.j.dl.4.4fk.ir&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=sq.oy.8v.9m.f.f6.6ld.ir&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
@@ -22,6 +25,3 @@ https://t.me/proxy?server=5.222.4.90&port=8443&secret=dd104462821249bd7ac5191302
 https://t.me/proxy?server=5.222.26.128&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.222.24.244&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.222.17.103&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=5.222.0.9&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=48.mt.p6.fo.s.u.44-94-14-4.ir&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=2y.kr.8v.lr.f.ir.75.44.38-82.ir&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
