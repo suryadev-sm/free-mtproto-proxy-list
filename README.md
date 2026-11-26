@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 26 Nov 2026, 11:10 UTC | **Working now:** 25
+**Last update:** 26 Nov 2026, 11:40 UTC | **Working now:** 24
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -18,31 +18,30 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `bimeh.my-moon.co.uk.` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=bimeh.my-moon.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 2 | `speed.runserver.co.uk.` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 3 | `e3fand.fesgheli.co.uk.` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 4 | `87.248.144.151` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.151&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0) |
-| 5 | `87.248.144.152` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.152&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0) |
-| 6 | `87.248.144.153` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.153&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk) |
-| 7 | `5.222.23.176` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.23.176&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 8 | `5.222.26.56` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.26.56&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 9 | `lightmeadow.sorrelbay.xyz` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=lightmeadow.sorrelbay.xyz&port=443&secret=ee4744890f29a9d82cf4673d7fed152ea06f7a6f6e2e7275) |
-| 10 | `ember.ashwren.xyz` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ember.ashwren.xyz&port=8443&secret=ee4744890f29a9d82cf4673d7fed152ea0617669746f2e7275) |
-| 11 | `87.248.144.253` | 2096 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.253&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 12 | `5.222.28.90` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.28.90&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 13 | `5.222.20.81` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.20.81&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `max.kimt.click` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b) |
-| 15 | `Speed-speed.co.uk.` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 16 | `Hel-hi.co.uk.` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
-| 17 | `ziba.clinic-roya.ir` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ziba.clinic-roya.ir&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 18 | `testt.jamaran.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=testt.jamaran.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 19 | `no-problem.ir.aojsnqzcdsc.info` | 88 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=no-problem.ir.aojsnqzcdsc.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d) |
-| 20 | `ccc.horizon555.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 21 | `one.horizon555.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 22 | `91.98.97.225` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 23 | `dastan.sarnevesht.space.` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=dastan.sarnevesht.space.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q) |
-| 24 | `91.234.147.30` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=91.234.147.30&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
-| 25 | `91.234.147.18` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=91.234.147.18&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
+| 1 | `banoo.khooorshid.co.uk` | 2096 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=banoo.khooorshid.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 2 | `188.245.113.107` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=188.245.113.107&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 3 | `box-to-box.dablecheckz.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=box-to-box.dablecheckz.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 4 | `checker-mizban.dablecheckz.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=checker-mizban.dablecheckz.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 5 | `hazel.heronglade.space` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=hazel.heronglade.space&port=443&secret=ee6dfbca19c79d8962f0357e47140cdbdc786170692e6f7a6f6e2e7275) |
+| 6 | `ferngem.heronglade.space` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ferngem.heronglade.space&port=8443&secret=ee6dfbca19c79d8962f0357e47140cdbdc706574726f766963682e7275) |
+| 7 | `bimeh.my-moon.co.uk.` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=bimeh.my-moon.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 8 | `speed.runserver.co.uk.` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 9 | `e3fand.fesgheli.co.uk.` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 10 | `87.248.144.151` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.151&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0) |
+| 11 | `87.248.144.152` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.152&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0) |
+| 12 | `87.248.144.153` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.153&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk) |
+| 13 | `5.222.23.176` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.23.176&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 14 | `5.222.26.56` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.26.56&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 15 | `lightmeadow.sorrelbay.xyz` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=lightmeadow.sorrelbay.xyz&port=443&secret=ee4744890f29a9d82cf4673d7fed152ea06f7a6f6e2e7275) |
+| 16 | `ember.ashwren.xyz` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ember.ashwren.xyz&port=8443&secret=ee4744890f29a9d82cf4673d7fed152ea0617669746f2e7275) |
+| 17 | `87.248.144.253` | 2096 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.253&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 18 | `5.222.28.90` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.28.90&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 19 | `5.222.20.81` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.20.81&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 20 | `max.kimt.click` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b) |
+| 21 | `Speed-speed.co.uk.` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 22 | `Hel-hi.co.uk.` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| 23 | `ziba.clinic-roya.ir` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ziba.clinic-roya.ir&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 24 | `no-problem.ir.aojsnqzcdsc.info` | 88 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=no-problem.ir.aojsnqzcdsc.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d) |
 
 ## How to use
 
