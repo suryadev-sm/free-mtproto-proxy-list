@@ -1,5 +1,6 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
 https://t.me/proxy?server=best.ir.agrescjarkahdgs.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e6961626364656667682e696a
 https://t.me/proxy?server=216.36.108.1&port=5201&secret=ee497495a13920f0f753e80925c6f9c840617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=syntax.azadaiu.info&port=8443&secret=1603010200010001fc030386e24c3add
@@ -24,4 +25,3 @@ https://t.me/proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1f
 https://t.me/proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374
 https://t.me/proxy?server=tomnail.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=tigo8.hasanto.ir&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=sushima.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add
