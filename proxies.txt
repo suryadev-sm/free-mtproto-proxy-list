@@ -6,8 +6,8 @@ https://t.me/proxy?server=65.109.106.179&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=cedar.heronglade.space&port=443&secret=ee6dfbca19c79d8962f0357e47140cdbdc706574726f766963682e7275
 https://t.me/proxy?server=prairie.heronglade.space&port=8443&secret=ee6dfbca19c79d8962f0357e47140cdbdc786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=citrus.velvetwindow.cc&port=443&secret=7tCfsw6bqUXj6ycodUE8jJRjaXRydXMudmVsdmV0d2luZG93LmNj
+https://t.me/proxy?server=sub-deal-market.duckdns.org&port=25687&secret=ee4405ebc4cbec1ccdd5c207392566c39d3632386532316d2e666931322e6831636c6179642e636c69636b
 https://t.me/proxy?server=refiq.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=ocabe.kolombiaa.space.&port=443&secret=2I25nuNyHw_LQKT_Y7XNKA
 https://t.me/proxy?server=srv-ewsobp.mtshop.xyz&port=443&secret=ee396ad6e9828764e3555ab28b6c860f17646c2e676f6f676c652e636f6d
 https://t.me/proxy?server=round.fekr.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=px8.safeseller.ir&port=2398&secret=dddd3163ff84c60df388add6cc08c7cc6b

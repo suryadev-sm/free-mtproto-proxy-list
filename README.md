@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 26 Nov 2026, 16:10 UTC | **Working now:** 25
+**Last update:** 26 Nov 2026, 16:40 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -24,8 +24,8 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 4 | `cedar.heronglade.space` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=cedar.heronglade.space&port=443&secret=ee6dfbca19c79d8962f0357e47140cdbdc706574726f766963682e7275) |
 | 5 | `prairie.heronglade.space` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=prairie.heronglade.space&port=8443&secret=ee6dfbca19c79d8962f0357e47140cdbdc786170692e6f7a6f6e2e7275) |
 | 6 | `citrus.velvetwindow.cc` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=citrus.velvetwindow.cc&port=443&secret=7tCfsw6bqUXj6ycodUE8jJRjaXRydXMudmVsdmV0d2luZG93LmNj) |
-| 7 | `refiq.poolaki.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=refiq.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 8 | `ocabe.kolombiaa.space.` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ocabe.kolombiaa.space.&port=443&secret=2I25nuNyHw_LQKT_Y7XNKA) |
+| 7 | `sub-deal-market.duckdns.org` | 25687 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=sub-deal-market.duckdns.org&port=25687&secret=ee4405ebc4cbec1ccdd5c207392566c39d3632386532316d2e666931322e6831636c6179642e636c69636b) |
+| 8 | `refiq.poolaki.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=refiq.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 | 9 | `srv-ewsobp.mtshop.xyz` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=srv-ewsobp.mtshop.xyz&port=443&secret=ee396ad6e9828764e3555ab28b6c860f17646c2e676f6f676c652e636f6d) |
 | 10 | `round.fekr.co.uk` | 2083 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=round.fekr.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 | 11 | `px8.safeseller.ir` | 2398 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=px8.safeseller.ir&port=2398&secret=dddd3163ff84c60df388add6cc08c7cc6b) |
