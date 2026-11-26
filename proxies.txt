@@ -1,5 +1,9 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=slatebay.ashwren.xyz&port=443&secret=ee4744890f29a9d82cf4673d7fed152ea06f7a6f6e2e7275
+https://t.me/proxy?server=dawn.kelpmoor.xyz&port=8443&secret=ee4744890f29a9d82cf4673d7fed152ea0786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=birch.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9462697263682e76656c76657477696e646f772e6363
+https://t.me/proxy?server=birch.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9462697263682e7061706572746561706f742e636f6d
 https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=rain.heronglade.space&port=8443&secret=ee6dfbca19c79d8962f0357e47140cdbdc786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=sierra.heronglade.space&port=443&secret=ee6dfbca19c79d8962f0357e47140cdbdc706574726f766963682e7275
@@ -21,7 +25,3 @@ https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e
 https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
 https://t.me/proxy?server=dark23.qavi-13.co.uk.&port=155&secret=eedeb8be6682edb1cce7e5cdabbb8891456461726b32332e716176692d31332e636f2e756b
 https://t.me/proxy?server=dark.qavi-13.co.uk&port=1550&secret=c176866d10f06db5b5b2a9defb9e1fd5
-https://t.me/proxy?server=dark1.qavi-13.co.uk&port=1550&secret=cc4b1c883a3b456d402c73a5c23a42e3
-https://t.me/proxy?server=testt.samanehha.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=testt.paydayesh.ir&port=8443&secret=dd79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=hadi-choopan.persian.wolf.ir.aojsnqzcdsc.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
