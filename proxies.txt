@@ -10,6 +10,7 @@ https://t.me/proxy?server=vega.hollowfern.sbs&port=8443&secret=eee37d2ac00492bf7
 https://t.me/proxy?server=api.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=stonefinch.heronglade.space&port=443&secret=ee6dfbca19c79d8962f0357e47140cdbdc786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=anchor.heronglade.space&port=8443&secret=ee6dfbca19c79d8962f0357e47140cdbdc706574726f766963682e7275
+https://t.me/proxy?server=nyakawai.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
 https://t.me/proxy?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
@@ -24,4 +25,3 @@ https://t.me/proxy?server=pepperjasmine.kelpmoor.xyz&port=8443&secret=ee4744890f
 https://t.me/proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
 https://t.me/proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374
 https://t.me/proxy?server=tomnail.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=tigo8.hasanto.ir&port=8443&secret=1603010200010001fc030386e24c3add
