@@ -1,5 +1,12 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=path.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=node.lanternmoss.top&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b
+https://t.me/proxy?server=azure.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94617a7572652e76656c76657477696e646f772e6363
+https://t.me/proxy?server=azure.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94617a7572652e7061706572746561706f742e636f6d
+https://t.me/proxy?server=Jacob-Elordi.Serial-seriesIron.Fist-Soft.speedtest-Soft.name.Original.Sub.S07-BluRay.saatchi.space&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+https://t.me/proxy?server=ws24.ir.sam-pars.ir.hamann-motorsports.ir.ip-market.ir.norden-co.com.misaghtalayieh.ir.tiwall.io.saatchi.space&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=mika31.ashwren.xyz&port=443&secret=ee827bb7e0257a090d747ba7dde413ab05786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=sulo63.sorrelbay.xyz&port=8443&secret=ee827bb7e0257a090d747ba7dde413ab056f7a6f6e2e7275
 https://t.me/proxy?server=nyne50.sorrelbay.xyz&port=443&secret=ee302cabde68f0b8c57ca48b73072cd276786170692e6f7a6f6e2e7275
@@ -16,12 +23,4 @@ https://t.me/proxy?server=mizban-p.iaubpanel.info&port=8443&secret=1603010200010
 https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=vega.hollowfern.sbs&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=api.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=stonefinch.heronglade.space&port=443&secret=ee6dfbca19c79d8962f0357e47140cdbdc786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=anchor.heronglade.space&port=8443&secret=ee6dfbca19c79d8962f0357e47140cdbdc706574726f766963682e7275
-https://t.me/proxy?server=nyakawai.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-https://t.me/proxy?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=87.248.144.50&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=87.248.144.60&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=opal.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
