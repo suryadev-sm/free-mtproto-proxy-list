@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 27 Nov 2026, 12:40 UTC | **Working now:** 21
+**Last update:** 27 Nov 2026, 13:10 UTC | **Working now:** 20
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -18,27 +18,26 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 
 | # | Server | Port | Link |
 |---|--------|------|------|
-| 1 | `87.248.144.151` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.151&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0) |
-| 2 | `87.248.144.152` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.152&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0) |
-| 3 | `87.248.144.153` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.153&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk) |
-| 4 | `noble.lanternmoss.top` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=noble.lanternmoss.top&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275) |
-| 5 | `black.driftquill.click` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=black.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275) |
-| 6 | `kvas.kemerovo.online` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c) |
-| 7 | `dns.speed-benz.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 8 | `banoo.khooorshid.co.uk` | 2096 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=banoo.khooorshid.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 9 | `rain.hollowfern.sbs` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=rain.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| 10 | `laser.velvetoak.work` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=laser.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275) |
-| 11 | `po.hermesss.de5.net` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=po.hermesss.de5.net&port=443&secret=ee1c770940ea7b3d67be7ecd6e24b8ca54706574726f766963682e7275) |
-| 12 | `91.234.147.33` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=91.234.147.33&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
-| 13 | `91.234.147.26` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=91.234.147.26&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
-| 14 | `5.222.31.158` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.31.158&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 15 | `5.222.20.63` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.20.63&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `5.222.20.186` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.20.186&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 17 | `nectar.heronglade.space` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nectar.heronglade.space&port=8443&secret=eedbace7941bf820ff0ea426e464021476706574726f766963682e7275) |
-| 18 | `sailfrost.heronglade.space` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=sailfrost.heronglade.space&port=443&secret=eedbace7941bf820ff0ea426e464021476786170692e6f7a6f6e2e7275) |
-| 19 | `freeconnect.lol` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275) |
-| 20 | `3etare.co.uk.` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 21 | `nocloudnew.co.uk.` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 1 | `dl.linux-orggv.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| 2 | `87.248.144.151` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.151&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0) |
+| 3 | `87.248.144.152` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.152&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0) |
+| 4 | `87.248.144.153` | 8880 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.153&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk) |
+| 5 | `noble.lanternmoss.top` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=noble.lanternmoss.top&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275) |
+| 6 | `black.driftquill.click` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=black.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275) |
+| 7 | `kvas.kemerovo.online` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c) |
+| 8 | `dns.speed-benz.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 9 | `banoo.khooorshid.co.uk` | 2096 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=banoo.khooorshid.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 10 | `rain.hollowfern.sbs` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=rain.hollowfern.sbs&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| 11 | `laser.velvetoak.work` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=laser.velvetoak.work&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275) |
+| 12 | `po.hermesss.de5.net` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=po.hermesss.de5.net&port=443&secret=ee1c770940ea7b3d67be7ecd6e24b8ca54706574726f766963682e7275) |
+| 13 | `91.234.147.33` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=91.234.147.33&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
+| 14 | `91.234.147.26` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=91.234.147.26&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
+| 15 | `5.222.31.158` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.31.158&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 16 | `5.222.20.63` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.20.63&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 17 | `5.222.20.186` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.20.186&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 18 | `nectar.heronglade.space` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nectar.heronglade.space&port=8443&secret=eedbace7941bf820ff0ea426e464021476706574726f766963682e7275) |
+| 19 | `sailfrost.heronglade.space` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=sailfrost.heronglade.space&port=443&secret=eedbace7941bf820ff0ea426e464021476786170692e6f7a6f6e2e7275) |
+| 20 | `nocloudnew.co.uk.` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
 
 ## How to use
 
