@@ -22,6 +22,6 @@ https://t.me/proxy?server=company.ferdosisets.info&port=8443&secret=160301020001
 https://t.me/proxy?server=gradute.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=haven.sorrelbay.xyz&port=443&secret=ee4744890f29a9d82cf4673d7fed152ea062726f777365722e79616e6465782e7275
 https://t.me/proxy?server=pepperjasmine.kelpmoor.xyz&port=8443&secret=ee4744890f29a9d82cf4673d7fed152ea0617669746f2e7275
+https://t.me/proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
 https://t.me/proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374
 https://t.me/proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=tomnail.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add
