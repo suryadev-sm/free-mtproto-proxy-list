@@ -1,5 +1,11 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=mika31.ashwren.xyz&port=443&secret=ee827bb7e0257a090d747ba7dde413ab05786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=sulo63.sorrelbay.xyz&port=8443&secret=ee827bb7e0257a090d747ba7dde413ab056f7a6f6e2e7275
+https://t.me/proxy?server=nyne50.sorrelbay.xyz&port=443&secret=ee302cabde68f0b8c57ca48b73072cd276786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=gany40.ashwren.xyz&port=8443&secret=ee302cabde68f0b8c57ca48b73072cd27662726f777365722e79616e6465782e7275
+https://t.me/proxy?server=sierra.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c947369657272612e76656c76657477696e646f772e6363
+https://t.me/proxy?server=sierra.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c947369657272612e7061706572746561706f742e636f6d
 https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
 https://t.me/proxy?server=www.zone51.online&port=443&secret=eefaf243dd3c6f6d19c3d1feb60c85b0237777772e7a6f6e6535312e6f6e6c696e65
 https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363
@@ -18,10 +24,4 @@ https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249
 https://t.me/proxy?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=87.248.144.50&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=87.248.144.60&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=edge.driftquill.click&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=opal.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=company.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=gradute.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=haven.sorrelbay.xyz&port=443&secret=ee4744890f29a9d82cf4673d7fed152ea062726f777365722e79616e6465782e7275
-https://t.me/proxy?server=pepperjasmine.kelpmoor.xyz&port=8443&secret=ee4744890f29a9d82cf4673d7fed152ea0617669746f2e7275
-https://t.me/proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
