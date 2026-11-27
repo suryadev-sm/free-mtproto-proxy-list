@@ -1,5 +1,9 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=scofield.iaubpanel.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=velvet.kelpmoor.xyz&port=443&secret=ee827bb7e0257a090d747ba7dde413ab05786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=sage.ashwren.xyz&port=8443&secret=ee827bb7e0257a090d747ba7dde413ab05706574726f766963682e7275
+https://t.me/proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
 https://t.me/proxy?server=jhndoes.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=exiscos.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=termsnal.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -19,9 +23,5 @@ https://t.me/proxy?server=velvet.lanternmoss.top&port=8443&secret=ee2b6eb790d613
 https://t.me/proxy?server=pulse3.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=stonefox.heronglade.space&port=8443&secret=eedbace7941bf820ff0ea426e464021476786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=cosmoslight.heronglade.space&port=443&secret=eedbace7941bf820ff0ea426e464021476706574726f766963682e7275
-https://t.me/proxy?server=edgespindle.org&port=443&secret=eebec6acb2a5464709485d7cbeedd8612b686f66662e7275
 https://t.me/proxy?server=objectpeak.org&port=443&secret=ee15d9244d7aa802e81b1736133fe059c5686f66662e7275
 https://t.me/proxy?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=persian.gulf.ir.olsjddhf.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
-https://t.me/proxy?server=sonic.lanternmoss.top&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=tango.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
