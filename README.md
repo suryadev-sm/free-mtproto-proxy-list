@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 26 Nov 2026, 23:40 UTC | **Working now:** 25
+**Last update:** 27 Nov 2026, 00:10 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -41,8 +41,8 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 21 | `haven.sorrelbay.xyz` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=haven.sorrelbay.xyz&port=443&secret=ee4744890f29a9d82cf4673d7fed152ea062726f777365722e79616e6465782e7275) |
 | 22 | `pepperjasmine.kelpmoor.xyz` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=pepperjasmine.kelpmoor.xyz&port=8443&secret=ee4744890f29a9d82cf4673d7fed152ea0617669746f2e7275) |
 | 23 | `www.tgda.best` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374) |
-| 24 | `tomnail.ferdosisets.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=tomnail.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 25 | `tigo8.hasanto.ir` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=tigo8.hasanto.ir&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 24 | `pofak.mikhay.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| 25 | `tomnail.ferdosisets.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=tomnail.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add) |
 
 ## How to use
 
