@@ -1,5 +1,11 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=refiq.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=proxy.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=all.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=65.109.106.132&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=168.119.142.46&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=65.109.106.179&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=2.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=2.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
@@ -19,9 +25,3 @@ https://t.me/proxy?server=tango.driftquill.click&port=8443&secret=ee2b6eb790d613
 https://t.me/proxy?server=qamginm-sp.37-100jamal.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 https://t.me/proxy?server=node3.serverix.cloud&port=3252&secret=ee511203dfda7df167a06c0b772e12018e7777772e676f6f676c652e636f6d
 https://t.me/proxy?server=jodaee-tv.0-1-2-1.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-https://t.me/proxy?server=chat.appnormoor.online&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
-https://t.me/proxy?server=bosbde-behem.0-1-2-1.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-https://t.me/proxy?server=bi-bakm.37-100jamal.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-https://t.me/proxy?server=88.99.108.15&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=156.226.168.65&port=22781&secret=eef7ced66eebb29358676b40763f7eb545617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=coralwinter.sorrelbay.xyz&port=443&secret=ee827bb7e0257a090d747ba7dde413ab05786170692e6f7a6f6e2e7275
