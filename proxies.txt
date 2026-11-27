@@ -1,5 +1,7 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=bia.hastim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=hamishe.hastim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=eagle.driftquill.click&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=mirage.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=WOOD.kufrel.ir.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
@@ -23,5 +25,3 @@ https://t.me/proxy?server=Jacob-Elordi.Serial-seriesIron.Fist-Soft.speedtest-Sof
 https://t.me/proxy?server=ws24.ir.sam-pars.ir.hamann-motorsports.ir.ip-market.ir.norden-co.com.misaghtalayieh.ir.tiwall.io.saatchi.space&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=mika31.ashwren.xyz&port=443&secret=ee827bb7e0257a090d747ba7dde413ab05786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=sulo63.sorrelbay.xyz&port=8443&secret=ee827bb7e0257a090d747ba7dde413ab056f7a6f6e2e7275
-https://t.me/proxy?server=nyne50.sorrelbay.xyz&port=443&secret=ee302cabde68f0b8c57ca48b73072cd276786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=gany40.ashwren.xyz&port=8443&secret=ee302cabde68f0b8c57ca48b73072cd27662726f777365722e79616e6465782e7275
