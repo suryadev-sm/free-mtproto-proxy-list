@@ -1,5 +1,7 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=wood.kufrel.ir&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
 https://t.me/proxy?server=pspro9.co.uk&port=443&secret=dd104462821349bd7ac519130220c25d09
 https://t.me/proxy?server=boom.zovqim.ir&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
@@ -23,5 +25,3 @@ https://t.me/proxy?server=eagle.driftquill.click&port=8443&secret=eeb68b66e59328
 https://t.me/proxy?server=mirage.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=WOOD.kufrel.ir.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
 https://t.me/proxy?server=BOOM.zovqim.ir.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
-https://t.me/proxy?server=falcon.kelpmoor.xyz&port=443&secret=ee827bb7e0257a090d747ba7dde413ab05786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=laurelbreeze.sorrelbay.xyz&port=8443&secret=ee827bb7e0257a090d747ba7dde413ab0562726f777365722e79616e6465782e7275
