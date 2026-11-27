@@ -1,5 +1,7 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=87.248.144.154&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk
+https://t.me/proxy?server=5.222.29.195&port=443&secret=f0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
 https://t.me/proxy?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=87.248.144.151&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
@@ -7,6 +9,7 @@ https://t.me/proxy?server=87.248.144.152&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt
 https://t.me/proxy?server=87.248.144.153&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk
 https://t.me/proxy?server=noble.lanternmoss.top&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=black.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=barsik.subaru-volga.com&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c
 https://t.me/proxy?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c
 https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=banoo.khooorshid.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -20,4 +23,3 @@ https://t.me/proxy?server=5.222.20.63&port=8443&secret=dd104462821249bd7ac519130
 https://t.me/proxy?server=5.222.20.186&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=nectar.heronglade.space&port=8443&secret=eedbace7941bf820ff0ea426e464021476706574726f766963682e7275
 https://t.me/proxy?server=sailfrost.heronglade.space&port=443&secret=eedbace7941bf820ff0ea426e464021476786170692e6f7a6f6e2e7275
-https://t.me/proxy?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
