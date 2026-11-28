@@ -1,5 +1,10 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=radical.pushinero.info.&port=5500&secret=2I25nuNyHw_LQKT_Y7XNKA
+https://t.me/proxy?server=5.222.20.144&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=5.222.9.46&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=breezedew.heronglade.space&port=8443&secret=ee104dfe5da09d676c233f72e6d8daaef4786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=echojuniper.heronglade.space&port=443&secret=ee104dfe5da09d676c233f72e6d8daaef4706574726f766963682e7275
 https://t.me/proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=yoyoyo.ip.uo.germidoko.com.pl&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=2.28.110.16&port=3333&secret=dd6c7148cdf7ed2d3f1e7d375fb6e73c27
@@ -20,8 +25,3 @@ https://t.me/proxy?server=irl.firemedia.digital&port=443&secret=eeadd144b0531c1a
 https://t.me/proxy?server=magma.velvetoak.work&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=fast.lanternmoss.top&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-https://t.me/proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=5.222.30.3&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=5.222.1.216&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
-https://t.me/proxy?server=5.160.131.77&port=443&secret=eec51d2f370af4249771b2fef43df676ad7777772e636c6f7564666c6172652e636f6d
