@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 28 Nov 2026, 07:40 UTC | **Working now:** 19
+**Last update:** 28 Nov 2026, 08:10 UTC | **Working now:** 20
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -32,11 +32,12 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 12 | `redflag.yazaebalsyadelatproxy.uk` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
 | 13 | `www.zone51.website` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=www.zone51.website&port=443&secret=ee3c3e7fd2980e2b3c5d8ffaf8bf4caffa7777772e7a6f6e6535312e77656273697465) |
 | 14 | `www.tgda.best` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374) |
-| 15 | `redflag.yazaebalsyadelatproxy.com` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
-| 16 | `37.49.229.43` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=37.49.229.43&port=8443&secret=dd71889eb517157210d61df330a5f11d95) |
-| 17 | `37.114.37.93` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=37.114.37.93&port=443&secret=ee100bf723c989ac93cf96a44e108fe87e6769746875622e636f6d) |
-| 18 | `188.212.97.236` | 17161 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=188.212.97.236&port=17161&secret=ee6cbe327fe0f8466d30325686302ec7ca7777772e636c6f7564666c6172652e636f6d) |
-| 19 | `13.140.198.196` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=13.140.198.196&port=443&secret=d680e797cea05664fd36e22bd83e7d71) |
+| 15 | `teledomen.lol` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=teledomen.lol&port=443&secret=ee47865459ee8e60d17b7374b5c7b53d086d6170792e636f6d) |
+| 16 | `redflag.yazaebalsyadelatproxy.com` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=redflag.yazaebalsyadelatproxy.com&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363) |
+| 17 | `37.49.229.43` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=37.49.229.43&port=8443&secret=dd71889eb517157210d61df330a5f11d95) |
+| 18 | `37.114.37.93` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=37.114.37.93&port=443&secret=ee100bf723c989ac93cf96a44e108fe87e6769746875622e636f6d) |
+| 19 | `188.212.97.236` | 17161 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=188.212.97.236&port=17161&secret=ee6cbe327fe0f8466d30325686302ec7ca7777772e636c6f7564666c6172652e636f6d) |
+| 20 | `13.140.198.196` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=13.140.198.196&port=443&secret=d680e797cea05664fd36e22bd83e7d71) |
 
 ## How to use
 
