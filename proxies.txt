@@ -1,5 +1,10 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=resume.ricebr.ir&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=akiliosh.laniva.ir&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=trail.kelpmoor.xyz&port=443&secret=ee07777dab17a2b6ca34206f724ecf161b706574726f766963682e7275
+https://t.me/proxy?server=lemonsolar.ashwren.xyz&port=8443&secret=ee07777dab17a2b6ca34206f724ecf161b617669746f2e7275
+https://t.me/proxy?server=79.137.196.223&port=6443&secret=eeee121e233e90f2720d1154f701937cc5b67777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=blaze.hollowfern.sbs&port=8443&secret=eeb68b66e59328f050485be0f96193ef26786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=route.driftquill.click&port=8443&secret=eee37d2ac00492bf7c77672c84a4a00c43786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=shopify.appnormoor.online&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
@@ -12,7 +17,6 @@ https://t.me/proxy?server=uk-02.rrhosting.eu&port=7960&secret=ee6670c1d7f2cb9792
 https://t.me/proxy?server=tr-proxy.matialz.xyz&port=9443&secret=eebe10758254b6255d6ba297c2cb8b46fc636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=radical.pushinero.info&port=5500&secret=d88db99ee3721f0fcb40a4ff63b5cd28
 https://t.me/proxy?server=connect.lero.one&port=443&secret=ee2f25099ee2913cd5796afa4482c0bca46d2e6265626f6f2e7275
-https://t.me/proxy?server=cdnbarrel.org&port=443&secret=ee7e417407b715ff26d9fafff34e31a33b686f66662e7275
 https://t.me/proxy?server=5.222.4.11&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=188.137.238.157&port=443&secret=ee03875d59a8811ad19f914ecb9a8919
 https://t.me/proxy?server=167.233.159.133&port=8443&secret=dd79e344818749bd7ac519130220c25d09
@@ -20,8 +24,4 @@ https://t.me/proxy?server=154.36.144.181&port=443&secret=dd324a3ddbf7ab0169f193a
 https://t.me/proxy?server=122.10.114.250&port=8443&secret=ee39268a4d5df60d36fb5f18e6b177f1d76974756e65732e6170706c652e636f6d
 https://t.me/proxy?server=ziba.clinic-roya.ir&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=clinic-roya.ir&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
 https://t.me/proxy?server=clover.ashwren.xyz&port=443&secret=ee07777dab17a2b6ca34206f724ecf161b62726f777365722e79616e6465782e7275
-https://t.me/proxy?server=cedartrail.sorrelbay.xyz&port=8443&secret=ee07777dab17a2b6ca34206f724ecf161b6f7a6f6e2e7275
-https://t.me/proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275
-https://t.me/proxy?server=speed.runserver.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
