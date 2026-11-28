@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 28 Nov 2026, 09:40 UTC | **Working now:** 25
+**Last update:** 28 Nov 2026, 10:10 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -30,9 +30,9 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 10 | `tr-proxy.matialz.xyz` | 9443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=tr-proxy.matialz.xyz&port=9443&secret=eebe10758254b6255d6ba297c2cb8b46fc636c6f7564666c6172652e636f6d) |
 | 11 | `radical.pushinero.info` | 5500 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=radical.pushinero.info&port=5500&secret=d88db99ee3721f0fcb40a4ff63b5cd28) |
 | 12 | `connect.lero.one` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=connect.lero.one&port=443&secret=ee2f25099ee2913cd5796afa4482c0bca46d2e6265626f6f2e7275) |
-| 13 | `5.222.4.11` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.4.11&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 14 | `188.137.238.157` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=188.137.238.157&port=443&secret=ee03875d59a8811ad19f914ecb9a8919) |
-| 15 | `176.65.151.198` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=176.65.151.198&port=443&secret=27b755f7782717608a4ec995fa0945e9) |
+| 13 | `cdnbarrel.org` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=cdnbarrel.org&port=443&secret=ee7e417407b715ff26d9fafff34e31a33b686f66662e7275) |
+| 14 | `5.222.4.11` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=5.222.4.11&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| 15 | `188.137.238.157` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=188.137.238.157&port=443&secret=ee03875d59a8811ad19f914ecb9a8919) |
 | 16 | `167.233.159.133` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=167.233.159.133&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
 | 17 | `154.36.144.181` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=154.36.144.181&port=443&secret=dd324a3ddbf7ab0169f193aeb9ca9ae671) |
 | 18 | `122.10.114.250` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=122.10.114.250&port=8443&secret=ee39268a4d5df60d36fb5f18e6b177f1d76974756e65732e6170706c652e636f6d) |
