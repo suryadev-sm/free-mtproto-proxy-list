@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 28 Nov 2026, 04:40 UTC | **Working now:** 20
+**Last update:** 28 Nov 2026, 05:10 UTC | **Working now:** 21
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -30,14 +30,15 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 10 | `13.140.198.196` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=13.140.198.196&port=443&secret=d680e797cea05664fd36e22bd83e7d71) |
 | 11 | `neon.tealbriar.xyz` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=neon.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275) |
 | 12 | `shared2.ddproxy.xyz` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=shared2.ddproxy.xyz&port=443&secret=7t3d3d3d3d3d3d3d3d3d3d1tLmJlYm9vLnJ1) |
-| 13 | `ram7.co.uk` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 14 | `tazenafas.dingi3.co.uk` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 15 | `fandogh.co.uk` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 16 | `87.248.144.50` | 2083 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.50&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 17 | `87.248.144.60` | 2053 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.60&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 18 | `face-to-face.dablecheckz.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=face-to-face.dablecheckz.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 19 | `checker-mizban.dablecheckz.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=checker-mizban.dablecheckz.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 20 | `swanshore.heronglade.space` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=swanshore.heronglade.space&port=443&secret=eedbace7941bf820ff0ea426e464021476706574726f766963682e7275) |
+| 13 | `lok1atomi.pr.deampro.pw` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=lok1atomi.pr.deampro.pw&port=443&secret=ee85e36b1fea9add1b2b9de8996259df0f662d70312d733031352d3934356139666164653832312d3162623736356263333438612e6c6f6b3161746f6d692e70722e6465616d70726f2e7077) |
+| 14 | `ram7.co.uk` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 15 | `tazenafas.dingi3.co.uk` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 16 | `fandogh.co.uk` | 4455 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 17 | `87.248.144.50` | 2083 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.50&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 18 | `87.248.144.60` | 2053 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=87.248.144.60&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 19 | `face-to-face.dablecheckz.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=face-to-face.dablecheckz.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 20 | `checker-mizban.dablecheckz.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=checker-mizban.dablecheckz.info&port=8443&secret=1603010200010001fc030386e24c3add) |
+| 21 | `swanshore.heronglade.space` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=swanshore.heronglade.space&port=443&secret=eedbace7941bf820ff0ea426e464021476706574726f766963682e7275) |
 
 ## How to use
 
