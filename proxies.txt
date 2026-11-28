@@ -1,5 +1,6 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=yoyoyo.ip.uo.germidoko.com.pl&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=2.28.110.16&port=3333&secret=dd6c7148cdf7ed2d3f1e7d375fb6e73c27
 https://t.me/proxy?server=194.110.210.88&port=443&secret=d954f0b3fa47b498913437cf3d7e988d
@@ -24,4 +25,3 @@ https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIM
 https://t.me/proxy?server=5.222.30.3&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=5.222.1.216&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk%3D
 https://t.me/proxy?server=5.160.131.77&port=443&secret=eec51d2f370af4249771b2fef43df676ad7777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=38.173.252.175&port=443&secret=ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d
