@@ -2,7 +2,7 @@
 
 Free, working MTProto proxies for Telegram. Every proxy here is checked automatically and the list is refreshed every 30 minutes.
 
-**Last update:** 28 Nov 2026, 02:10 UTC | **Working now:** 25
+**Last update:** 28 Nov 2026, 02:40 UTC | **Working now:** 25
 
 - More proxies all day: [Telegram channel @TGProxyMax](https://t.me/TGProxyMax)
 - Submit your own proxy: [@TGProxyMaxBot](https://t.me/TGProxyMaxBot)
@@ -42,7 +42,7 @@ Free, working MTProto proxies for Telegram. Every proxy here is checked automati
 | 22 | `pofak.mikhay.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 | 23 | `pesar.nanaz.co.uk` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
 | 24 | `scofield.iaubpanel.info` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=scofield.iaubpanel.info&port=8443&secret=1603010200010001fc030386e24c3add) |
-| 25 | `velvet.kelpmoor.xyz` | 443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=velvet.kelpmoor.xyz&port=443&secret=ee827bb7e0257a090d747ba7dde413ab05786170692e6f7a6f6e2e7275) |
+| 25 | `sage.ashwren.xyz` | 8443 | [Connect](https://suryadev-sm.github.io/free-mtproto-proxy-list/connect.html?server=sage.ashwren.xyz&port=8443&secret=ee827bb7e0257a090d747ba7dde413ab05706574726f766963682e7275) |
 
 ## How to use
 

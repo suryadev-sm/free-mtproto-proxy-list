@@ -24,4 +24,4 @@ https://t.me/proxy?server=swanshore.heronglade.space&port=443&secret=eedbace7941
 https://t.me/proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=scofield.iaubpanel.info&port=8443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=velvet.kelpmoor.xyz&port=443&secret=ee827bb7e0257a090d747ba7dde413ab05786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=sage.ashwren.xyz&port=8443&secret=ee827bb7e0257a090d747ba7dde413ab05706574726f766963682e7275
