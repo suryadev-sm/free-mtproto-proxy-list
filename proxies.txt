@@ -1,5 +1,8 @@
 https://t.me/proxy?server=au.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=tg.telechatgram.in&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=woyowoyo.ebdoradoq.info.&port=6600&secret=2I25nuNyHw_LQKT_Y7XNKA
+https://t.me/proxy?server=arbor.heronglade.space&port=443&secret=ee104dfe5da09d676c233f72e6d8daaef4786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=sprucelotus.heronglade.space&port=8443&secret=ee104dfe5da09d676c233f72e6d8daaef4706574726f766963682e7275
 https://t.me/proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=Jacob-Elordi.Serial-seriesIron.Fist-Soft.speedtest-Soft.name.Original.Sub.S07-BluRay.saatchi.space&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 https://t.me/proxy?server=maka26.kelpmoor.xyz&port=443&secret=ee07777dab17a2b6ca34206f724ecf161b617669746f2e7275
@@ -16,7 +19,4 @@ https://t.me/proxy?server=13.140.198.196&port=443&secret=d680e797cea05664fd36e22
 https://t.me/proxy?server=neon.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275
 https://t.me/proxy?server=shared2.ddproxy.xyz&port=443&secret=7t3d3d3d3d3d3d3d3d3d3d1tLmJlYm9vLnJ1
 https://t.me/proxy?server=lok1atomi.pr.deampro.pw&port=443&secret=ee85e36b1fea9add1b2b9de8996259df0f662d70312d733031352d3934356139666164653832312d3162623736356263333438612e6c6f6b3161746f6d692e70722e6465616d70726f2e7077
-https://t.me/proxy?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=87.248.144.60&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
